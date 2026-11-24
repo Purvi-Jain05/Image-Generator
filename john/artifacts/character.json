@@ -1,0 +1,57 @@
+{
+  "character": {
+    "name": "john",
+    "region": "uk",
+    "gender": "male",
+    "lifestyle": "doctor"
+  },
+  "appearance": {
+    "race": "caucasian",
+    "hair": "brown",
+    "eyes": "blue",
+    "facialHair": "short beard",
+    "clothing": {
+      "shirt": "white",
+      "pants": "navy blue",
+      "jacket": "black"
+    },
+    "bodyType": "fit",
+    "pose": "professional"
+  },
+  "backstory": {
+    "family": "married with two children",
+    "education": "medical school",
+    "career": "working as a doctor in a uk hospital"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "john is walking into a hospital, wearing his white coat, with a stethoscope around his neck. The background is a bustling hospital hallway with doctors and nurses rushing to and fro."
+    },
+    {
+      "scene": 2,
+      "prompt": "john is examining a patient in a hospital room, with a serious expression on his face. The background is a simple hospital room with medical equipment and a bed."
+    },
+    {
+      "scene": 3,
+      "prompt": "john is standing in a hospital cafeteria, eating a sandwich and chatting with a colleague. The background is a busy cafeteria with doctors and nurses eating and socializing."
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "john/images/scene_1.jpg",
+      "prompt": "\n{'race': 'caucasian', 'hair': 'brown', 'eyes': 'blue', 'facialHair': 'short beard', 'clothing': {'shirt': 'white', 'pants': 'navy blue', 'jacket': 'black'}, 'bodyType': 'fit', 'pose': 'professional'},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\njohn is walking into a hospital, wearing his white coat, with a stethoscope around his neck. The background is a bustling hospital hallway with doctors and nurses rushing to and fro.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "john/images/scene_2.jpg",
+      "prompt": "\n{'race': 'caucasian', 'hair': 'brown', 'eyes': 'blue', 'facialHair': 'short beard', 'clothing': {'shirt': 'white', 'pants': 'navy blue', 'jacket': 'black'}, 'bodyType': 'fit', 'pose': 'professional'},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\njohn is examining a patient in a hospital room, with a serious expression on his face. The background is a simple hospital room with medical equipment and a bed.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "john/images/scene_3.jpg",
+      "prompt": "\n{'race': 'caucasian', 'hair': 'brown', 'eyes': 'blue', 'facialHair': 'short beard', 'clothing': {'shirt': 'white', 'pants': 'navy blue', 'jacket': 'black'}, 'bodyType': 'fit', 'pose': 'professional'},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\njohn is standing in a hospital cafeteria, eating a sandwich and chatting with a colleague. The background is a busy cafeteria with doctors and nurses eating and socializing.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

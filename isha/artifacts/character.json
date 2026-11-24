@@ -1,0 +1,103 @@
+{
+  "name": "Isha",
+  "age": 24,
+  "region": "Assam",
+  "gender": "female",
+  "lifestyle": {
+    "description": "Famous singer and pet parent",
+    "objects": [
+      "clay pot",
+      "pet cat",
+      "microphone"
+    ],
+    "actions": [
+      "singing",
+      "caring for pets",
+      "creating music"
+    ]
+  },
+  "appearance": {
+    "face": "round face with large eyes",
+    "hair": "long black hair",
+    "body": "slim body with a small waist",
+    "skin tone": "fair skin with a golden glow"
+  },
+  "backstory": {
+    "family": "came from a middle-class family in Assam",
+    "education": "studied music in college",
+    "career": "became a famous singer in Assam"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Isha sitting in a cozy room with her pet cat, wearing a traditional Assamese dress and holding a clay pot.",
+      "description": "The room is decorated with traditional Assamese art and the sound of birds can be heard outside.",
+      "image": {
+        "pose": "relaxed pose",
+        "camera": "wide-angle camera",
+        "lighting": "soft natural light"
+      },
+      "objects": [
+        "clay pot",
+        "pet cat",
+        "traditional Assamese dress"
+      ],
+      "actions": [
+        "caring for pets",
+        "creating music"
+      ]
+    },
+    {
+      "scene": 2,
+      "prompt": "Isha standing in a dramatic pose in front of a beautiful Assamese landscape, wearing a glamorous outfit and holding a microphone.",
+      "description": "The landscape is breathtaking with a beautiful sunset and a serene lake in the background.",
+      "image": {
+        "pose": "dramatic pose",
+        "camera": "telephoto camera",
+        "lighting": "harsh natural light"
+      },
+      "objects": [
+        "microphone",
+        "glamorous outfit"
+      ],
+      "actions": [
+        "singing"
+      ]
+    },
+    {
+      "scene": 3,
+      "prompt": "Isha sitting in a cozy music room with her pet cat, wearing a casual outfit and playing a guitar.",
+      "description": "The music room is decorated with musical instruments and the sound of music can be heard in the background.",
+      "image": {
+        "pose": "relaxed pose",
+        "camera": "close-up camera",
+        "lighting": "soft artificial light"
+      },
+      "objects": [
+        "guitar",
+        "pet cat",
+        "casual outfit"
+      ],
+      "actions": [
+        "creating music"
+      ]
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "isha/images/scene_1.jpg",
+      "prompt": "\n{'face': 'round face with large eyes', 'hair': 'long black hair', 'body': 'slim body with a small waist', 'skin tone': 'fair skin with a golden glow'},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nIsha sitting in a cozy room with her pet cat, wearing a traditional Assamese dress and holding a clay pot.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "isha/images/scene_2.jpg",
+      "prompt": "\n{'face': 'round face with large eyes', 'hair': 'long black hair', 'body': 'slim body with a small waist', 'skin tone': 'fair skin with a golden glow'},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nIsha standing in a dramatic pose in front of a beautiful Assamese landscape, wearing a glamorous outfit and holding a microphone.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "isha/images/scene_3.jpg",
+      "prompt": "\n{'face': 'round face with large eyes', 'hair': 'long black hair', 'body': 'slim body with a small waist', 'skin tone': 'fair skin with a golden glow'},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nIsha sitting in a cozy music room with her pet cat, wearing a casual outfit and playing a guitar.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

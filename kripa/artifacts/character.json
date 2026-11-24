@@ -1,0 +1,158 @@
+{
+  "name": "kripa",
+  "age": 24,
+  "gender": "female",
+  "lifestyle": "pottery enthusiast",
+  "region": "jammu",
+  "description": "a young woman with a passion for exploring museums and creating pottery",
+  "appearance": {
+    "age": {
+      "eyes": "bright",
+      "skin": "fair",
+      "hair": "dark brown"
+    },
+    "gender": {
+      "body": "curvy",
+      "facial structure": "oval"
+    },
+    "lifestyle": {
+      "clothing": "traditional jammu attire with pottery-inspired accessories",
+      "accessories": "a clay-stained apron, a pottery wheel pendant"
+    },
+    "region": {
+      "skin tone": "olive",
+      "hair texture": "thick and wavy"
+    }
+  },
+  "backstory": "born and raised in jammu, kripa developed a love for pottery at a young age. she spends most of her free time exploring local museums and creating art pieces that reflect her cultural heritage.",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "kripa in a traditional jammu museum, surrounded by pottery and artifacts",
+      "identity": {
+        "face": {
+          "eyes": "bright",
+          "skin": "fair",
+          "hair": "dark brown"
+        },
+        "body": "curvy",
+        "pose": "standing with a thoughtful expression"
+      },
+      "clothing": {
+        "top": "a traditional jammu blouse",
+        "bottom": "a long skirt with intricate embroidery",
+        "shoes": "traditional jammu footwear"
+      },
+      "background": {
+        "type": "museum",
+        "environment": "traditional jammu architecture",
+        "lighting": "soft and warm"
+      },
+      "objects": {
+        "pottery": {
+          "type": "ceramic vase",
+          "color": "terracotta"
+        },
+        "artifacts": {
+          "type": "ancient jammu sculpture",
+          "material": "stone"
+        }
+      },
+      "actions": {
+        "hand": "holding a traditional jammu book",
+        "eye": "looking at a pottery piece with admiration"
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "kripa in a dramatic scene, surrounded by pottery wheels and clay",
+      "identity": {
+        "face": {
+          "eyes": "bright",
+          "skin": "fair",
+          "hair": "dark brown"
+        },
+        "body": "curvy",
+        "pose": "standing with a dynamic expression"
+      },
+      "clothing": {
+        "top": "a pottery-inspired t-shirt",
+        "bottom": "a pair of comfortable pants",
+        "shoes": "sneakers"
+      },
+      "background": {
+        "type": "pottery studio",
+        "environment": "industrial",
+        "lighting": "bright and intense"
+      },
+      "objects": {
+        "pottery": {
+          "type": "pottery wheel",
+          "color": "industrial grey"
+        },
+        "clay": {
+          "type": "raw clay",
+          "color": "earthy brown"
+        }
+      },
+      "actions": {
+        "hand": "holding a pottery tool",
+        "eye": "looking at a pottery piece with pride"
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "kripa in a serene scene, surrounded by finished pottery pieces",
+      "identity": {
+        "face": {
+          "eyes": "bright",
+          "skin": "fair",
+          "hair": "dark brown"
+        },
+        "body": "curvy",
+        "pose": "sitting with a peaceful expression"
+      },
+      "clothing": {
+        "top": "a comfortable sweater",
+        "bottom": "a pair of loose pants",
+        "shoes": "slippers"
+      },
+      "background": {
+        "type": "pottery studio",
+        "environment": "calm and natural",
+        "lighting": "soft and warm"
+      },
+      "objects": {
+        "pottery": {
+          "type": "finished pottery pieces",
+          "color": "various earthy tones"
+        },
+        "plants": {
+          "type": "indoor plants",
+          "color": "various green tones"
+        }
+      },
+      "actions": {
+        "hand": "holding a cup of tea",
+        "eye": "looking at a finished pottery piece with appreciation"
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "kripa/images/scene_1.jpg",
+      "prompt": "\n{'age': {'eyes': 'bright', 'skin': 'fair', 'hair': 'dark brown'}, 'gender': {'body': 'curvy', 'facial structure': 'oval'}, 'lifestyle': {'clothing': 'traditional jammu attire with pottery-inspired accessories', 'accessories': 'a clay-stained apron, a pottery wheel pendant'}, 'region': {'skin tone': 'olive', 'hair texture': 'thick and wavy'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nkripa in a traditional jammu museum, surrounded by pottery and artifacts,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "kripa/images/scene_2.jpg",
+      "prompt": "\n{'age': {'eyes': 'bright', 'skin': 'fair', 'hair': 'dark brown'}, 'gender': {'body': 'curvy', 'facial structure': 'oval'}, 'lifestyle': {'clothing': 'traditional jammu attire with pottery-inspired accessories', 'accessories': 'a clay-stained apron, a pottery wheel pendant'}, 'region': {'skin tone': 'olive', 'hair texture': 'thick and wavy'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nkripa in a dramatic scene, surrounded by pottery wheels and clay,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "kripa/images/scene_3.jpg",
+      "prompt": "\n{'age': {'eyes': 'bright', 'skin': 'fair', 'hair': 'dark brown'}, 'gender': {'body': 'curvy', 'facial structure': 'oval'}, 'lifestyle': {'clothing': 'traditional jammu attire with pottery-inspired accessories', 'accessories': 'a clay-stained apron, a pottery wheel pendant'}, 'region': {'skin tone': 'olive', 'hair texture': 'thick and wavy'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nkripa in a serene scene, surrounded by finished pottery pieces,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

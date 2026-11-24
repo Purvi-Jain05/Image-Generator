@@ -1,0 +1,63 @@
+{
+  "appearance": {
+    "gender": "female",
+    "age": 29,
+    "lifestyle": "pottery enthusiast",
+    "region": "Andhra Pradesh",
+    "face": {
+      "shape": "round",
+      "skin tone": "medium brown",
+      "facial hair": "none",
+      "eyes": {
+        "shape": "almond",
+        "color": "dark brown",
+        "expression": "curious"
+      },
+      "hair": {
+        "color": "dark brown",
+        "style": "long, straight"
+      }
+    },
+    "body": {
+      "height": 165,
+      "weight": 55,
+      "build": "slim"
+    },
+    "attire": "traditional Andhra Pradesh attire, adapted for pottery enthusiast, e.g. cotton sari, pottery-inspired accessories"
+  },
+  "backstory": {
+    "lifestyle": "Sonia is a 29-year-old woman from Andhra Pradesh who has a deep passion for pottery. She spends most of her free time exploring local pottery studios, attending workshops, and experimenting with different techniques. Her love for pottery is not just a hobby, but also a way to connect with her roots and culture.",
+    "region": "Andhra Pradesh is a state in southern India known for its rich cultural heritage and natural beauty. The state is home to many ancient temples, forts, and museums, which have inspired Sonia's love for pottery."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Scene 1: Sonia stands in front of a traditional Andhra Pradesh temple, surrounded by lush greenery and vibrant flowers. She wears a cotton sari with a pottery-inspired blouse and carries a small pottery wheel. The camera is positioned at a slight angle, with a warm and soft light."
+    },
+    {
+      "scene": 2,
+      "prompt": "Scene 2: Sonia sits in a small pottery studio, surrounded by half-finished pottery pieces and various tools. She wears a more casual outfit, consisting of a t-shirt and jeans, and works on a new piece. The camera is positioned above her, with a bright and airy light."
+    },
+    {
+      "scene": 3,
+      "prompt": "Scene 3: Sonia stands in front of a large pottery kiln, surrounded by a desert-like landscape. She wears a more dramatic outfit, consisting of a long, flowing skirt and a white blouse, and looks up at the kiln with a mixture of excitement and nervousness. The camera is positioned at a low angle, with a dramatic and contrasty light."
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "sonia_/images/scene_1.jpg",
+      "prompt": "\n{'gender': 'female', 'age': 29, 'lifestyle': 'pottery enthusiast', 'region': 'Andhra Pradesh', 'face': {'shape': 'round', 'skin tone': 'medium brown', 'facial hair': 'none', 'eyes': {'shape': 'almond', 'color': 'dark brown', 'expression': 'curious'}, 'hair': {'color': 'dark brown', 'style': 'long, straight'}}, 'body': {'height': 165, 'weight': 55, 'build': 'slim'}, 'attire': 'traditional Andhra Pradesh attire, adapted for pottery enthusiast, e.g. cotton sari, pottery-inspired accessories'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nScene 1: Sonia stands in front of a traditional Andhra Pradesh temple, surrounded by lush greenery and vibrant flowers. She wears a cotton sari with a pottery-inspired blouse and carries a small pottery wheel. The camera is positioned at a slight angle, with a warm and soft light.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "sonia_/images/scene_2.jpg",
+      "prompt": "\n{'gender': 'female', 'age': 29, 'lifestyle': 'pottery enthusiast', 'region': 'Andhra Pradesh', 'face': {'shape': 'round', 'skin tone': 'medium brown', 'facial hair': 'none', 'eyes': {'shape': 'almond', 'color': 'dark brown', 'expression': 'curious'}, 'hair': {'color': 'dark brown', 'style': 'long, straight'}}, 'body': {'height': 165, 'weight': 55, 'build': 'slim'}, 'attire': 'traditional Andhra Pradesh attire, adapted for pottery enthusiast, e.g. cotton sari, pottery-inspired accessories'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nScene 2: Sonia sits in a small pottery studio, surrounded by half-finished pottery pieces and various tools. She wears a more casual outfit, consisting of a t-shirt and jeans, and works on a new piece. The camera is positioned above her, with a bright and airy light.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "sonia_/images/scene_3.jpg",
+      "prompt": "\n{'gender': 'female', 'age': 29, 'lifestyle': 'pottery enthusiast', 'region': 'Andhra Pradesh', 'face': {'shape': 'round', 'skin tone': 'medium brown', 'facial hair': 'none', 'eyes': {'shape': 'almond', 'color': 'dark brown', 'expression': 'curious'}, 'hair': {'color': 'dark brown', 'style': 'long, straight'}}, 'body': {'height': 165, 'weight': 55, 'build': 'slim'}, 'attire': 'traditional Andhra Pradesh attire, adapted for pottery enthusiast, e.g. cotton sari, pottery-inspired accessories'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nScene 3: Sonia stands in front of a large pottery kiln, surrounded by a desert-like landscape. She wears a more dramatic outfit, consisting of a long, flowing skirt and a white blouse, and looks up at the kiln with a mixture of excitement and nervousness. The camera is positioned at a low angle, with a dramatic and contrasty light.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

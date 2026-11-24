@@ -1,0 +1,55 @@
+{
+  "name": "joe",
+  "region": "japan",
+  "gender": "female",
+  "lifestyle": "skincare influencer",
+  "appearance": {
+    "hair": "long and straight black hair",
+    "makeup": "natural and subtle, with a focus on highlighting skin tone",
+    "clothing": "soft pastel pink kimono with white sandals",
+    "facial_expression": "relaxed and serene",
+    "eye_color": "dark brown",
+    "skin_tone": "porcelain doll-like"
+  },
+  "backstory": {
+    "hobbies": "trying out new skincare products and techniques",
+    "goals": "to help others achieve healthy and glowing skin",
+    "personality": "calm and gentle, with a passion for skincare",
+    "background": "japanese culture and tradition"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "joe sits in a serene, minimalist room with a soft focus on her face and a few skincare products scattered around her.",
+      "description": "\"Morning skincare routine\"",
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "orientation": "portrait"
+      },
+      "music": "soft, instrumental background music with a focus on piano"
+    },
+    {
+      "scene": 2,
+      "prompt": "joe stands in a beautifully lit room with a variety of skincare products and tools on a nearby table.",
+      "description": "\"Skincare haul\"",
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape"
+      },
+      "music": "upbeat, instrumental background music with a focus on guitar"
+    },
+    {
+      "scene": 3,
+      "prompt": "joe is shown in a natural, outdoor setting with a beautiful sunrise in the background.",
+      "description": "\"Morning skincare tips\"",
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape"
+      },
+      "music": "soft, instrumental background music with a focus on flute"
+    }
+  ]
+}

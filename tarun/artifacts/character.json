@@ -1,0 +1,81 @@
+{
+  "appearance": {
+    "name": "tarun",
+    "region": "goa, India",
+    "gender": "male",
+    "age": "25",
+    "height": "175cm",
+    "weight": "60kg",
+    "hair": {
+      "color": "black",
+      "style": "messy, spiky"
+    },
+    "eyes": {
+      "color": "brown",
+      "shape": "angular"
+    },
+    "face": {
+      "expression": "aggressive",
+      "skin": "tanned"
+    },
+    "body": {
+      "build": "lean, athletic"
+    },
+    "clothing": {
+      "top": "black tank top",
+      "bottom": "dark grey joggers",
+      "footwear": "black combat boots"
+    },
+    "pose": {
+      "standing": {
+        "left-right": "relaxed",
+        "front-back": "aggressive"
+      },
+      "sitting": {
+        "left-right": "relaxed",
+        "front-back": "intense"
+      }
+    },
+    "environment": {
+      "background": "urban, gritty",
+      "lighting": "dramatic, high-contrast"
+    }
+  },
+  "backstory": {
+    "parents": "street vendor, housewife",
+    "family": "single mother, younger sister",
+    "childhood": "grew up on the streets, self-taught fighting skills",
+    "motivation": "protect family, defend community"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Tarun stands atop a concrete wall, gazing out over the city. He's dressed in his signature black tank top and dark grey joggers, his black combat boots planted firmly on the edge of the wall. His messy, spiky hair blows in the wind as he scans the rooftops, his eyes narrowed in concentration."
+    },
+    {
+      "scene": 2,
+      "prompt": "Tarun crouches in an alleyway, his eyes locked on a group of thugs harassing a street vendor. His lean, athletic build is tense, coiled like a spring, as he prepares to spring into action. His black tank top and dark grey joggers are stained with dirt and sweat, his black combat boots scuffed from countless battles."
+    },
+    {
+      "scene": 3,
+      "prompt": "Tarun stands in a dimly lit, abandoned warehouse, his eyes fixed on a rival fighter. The air is thick with tension as the two engage in a fierce stare-down, their bodies radiating hostility. Tarun's black tank top and dark grey joggers are a blur of motion as he moves, his black combat boots pounding the floor in a rhythmic beat."
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "tarun/images/scene_1.jpg",
+      "prompt": "\n{'name': 'tarun', 'region': 'goa, India', 'gender': 'male', 'age': '25', 'height': '175cm', 'weight': '60kg', 'hair': {'color': 'black', 'style': 'messy, spiky'}, 'eyes': {'color': 'brown', 'shape': 'angular'}, 'face': {'expression': 'aggressive', 'skin': 'tanned'}, 'body': {'build': 'lean, athletic'}, 'clothing': {'top': 'black tank top', 'bottom': 'dark grey joggers', 'footwear': 'black combat boots'}, 'pose': {'standing': {'left-right': 'relaxed', 'front-back': 'aggressive'}, 'sitting': {'left-right': 'relaxed', 'front-back': 'intense'}}, 'environment': {'background': 'urban, gritty', 'lighting': 'dramatic, high-contrast'}},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\nTarun stands atop a concrete wall, gazing out over the city. He's dressed in his signature black tank top and dark grey joggers, his black combat boots planted firmly on the edge of the wall. His messy, spiky hair blows in the wind as he scans the rooftops, his eyes narrowed in concentration.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "tarun/images/scene_2.jpg",
+      "prompt": "\n{'name': 'tarun', 'region': 'goa, India', 'gender': 'male', 'age': '25', 'height': '175cm', 'weight': '60kg', 'hair': {'color': 'black', 'style': 'messy, spiky'}, 'eyes': {'color': 'brown', 'shape': 'angular'}, 'face': {'expression': 'aggressive', 'skin': 'tanned'}, 'body': {'build': 'lean, athletic'}, 'clothing': {'top': 'black tank top', 'bottom': 'dark grey joggers', 'footwear': 'black combat boots'}, 'pose': {'standing': {'left-right': 'relaxed', 'front-back': 'aggressive'}, 'sitting': {'left-right': 'relaxed', 'front-back': 'intense'}}, 'environment': {'background': 'urban, gritty', 'lighting': 'dramatic, high-contrast'}},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\nTarun crouches in an alleyway, his eyes locked on a group of thugs harassing a street vendor. His lean, athletic build is tense, coiled like a spring, as he prepares to spring into action. His black tank top and dark grey joggers are stained with dirt and sweat, his black combat boots scuffed from countless battles.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "tarun/images/scene_3.jpg",
+      "prompt": "\n{'name': 'tarun', 'region': 'goa, India', 'gender': 'male', 'age': '25', 'height': '175cm', 'weight': '60kg', 'hair': {'color': 'black', 'style': 'messy, spiky'}, 'eyes': {'color': 'brown', 'shape': 'angular'}, 'face': {'expression': 'aggressive', 'skin': 'tanned'}, 'body': {'build': 'lean, athletic'}, 'clothing': {'top': 'black tank top', 'bottom': 'dark grey joggers', 'footwear': 'black combat boots'}, 'pose': {'standing': {'left-right': 'relaxed', 'front-back': 'aggressive'}, 'sitting': {'left-right': 'relaxed', 'front-back': 'intense'}}, 'environment': {'background': 'urban, gritty', 'lighting': 'dramatic, high-contrast'}},\n\nsame face, same identity,\nfull face visible, looking at camera,\n\nTarun stands in a dimly lit, abandoned warehouse, his eyes fixed on a rival fighter. The air is thick with tension as the two engage in a fierce stare-down, their bodies radiating hostility. Tarun's black tank top and dark grey joggers are a blur of motion as he moves, his black combat boots pounding the floor in a rhythmic beat.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

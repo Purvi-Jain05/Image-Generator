@@ -1,0 +1,120 @@
+{
+  "appearance": {
+    "name": "jatin",
+    "age": 20,
+    "gender": "male",
+    "region": "Punjab",
+    "lifestyle": "pet parent of bull dog",
+    "face": {
+      "shape": "oval",
+      "skin tone": "medium",
+      "hair": {
+        "color": "black",
+        "style": "short"
+      },
+      "eyes": {
+        "color": "brown"
+      }
+    },
+    "body": {
+      "height": 170,
+      "weight": 60,
+      "build": "athletic"
+    },
+    "clothing": {
+      "style": "casual",
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "items": [
+        {
+          "type": "shirt",
+          "color": "blue"
+        },
+        {
+          "type": "jeans",
+          "color": "white"
+        }
+      ]
+    }
+  },
+  "backstory": {
+    "lifestyle": "pet parent of bull dog",
+    "region": "Punjab",
+    "personality": "caring, kind"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "standing in a lush green field with bull dog, wearing brown leather jacket and jeans, smiling",
+      "image": {
+        "background": {
+          "type": "field",
+          "region": "Punjab"
+        },
+        "camera": {
+          "angle": "straight",
+          "position": "above"
+        },
+        "lighting": {
+          "type": "natural",
+          "time": "morning"
+        }
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "sitting on a couch with bull dog, wearing a yellow t-shirt and sweatpants, holding a tablet",
+      "image": {
+        "background": {
+          "type": "living room",
+          "region": "Punjab"
+        },
+        "camera": {
+          "angle": "angled",
+          "position": "side"
+        },
+        "lighting": {
+          "type": "artificial",
+          "time": "afternoon"
+        }
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "walking in a village with bull dog, wearing a simple white kurta and pyjama, smiling",
+      "image": {
+        "background": {
+          "type": "village",
+          "region": "Punjab"
+        },
+        "camera": {
+          "angle": "straight",
+          "position": "above"
+        },
+        "lighting": {
+          "type": "natural",
+          "time": "evening"
+        }
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "jatin/images/scene_1.jpg",
+      "prompt": "\n{'name': 'jatin', 'age': 20, 'gender': 'male', 'region': 'Punjab', 'lifestyle': 'pet parent of bull dog', 'face': {'shape': 'oval', 'skin tone': 'medium', 'hair': {'color': 'black', 'style': 'short'}, 'eyes': {'color': 'brown'}}, 'body': {'height': 170, 'weight': 60, 'build': 'athletic'}, 'clothing': {'style': 'casual', 'colors': ['blue', 'white'], 'items': [{'type': 'shirt', 'color': 'blue'}, {'type': 'jeans', 'color': 'white'}]}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nstanding in a lush green field with bull dog, wearing brown leather jacket and jeans, smiling,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "jatin/images/scene_2.jpg",
+      "prompt": "\n{'name': 'jatin', 'age': 20, 'gender': 'male', 'region': 'Punjab', 'lifestyle': 'pet parent of bull dog', 'face': {'shape': 'oval', 'skin tone': 'medium', 'hair': {'color': 'black', 'style': 'short'}, 'eyes': {'color': 'brown'}}, 'body': {'height': 170, 'weight': 60, 'build': 'athletic'}, 'clothing': {'style': 'casual', 'colors': ['blue', 'white'], 'items': [{'type': 'shirt', 'color': 'blue'}, {'type': 'jeans', 'color': 'white'}]}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nsitting on a couch with bull dog, wearing a yellow t-shirt and sweatpants, holding a tablet,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "jatin/images/scene_3.jpg",
+      "prompt": "\n{'name': 'jatin', 'age': 20, 'gender': 'male', 'region': 'Punjab', 'lifestyle': 'pet parent of bull dog', 'face': {'shape': 'oval', 'skin tone': 'medium', 'hair': {'color': 'black', 'style': 'short'}, 'eyes': {'color': 'brown'}}, 'body': {'height': 170, 'weight': 60, 'build': 'athletic'}, 'clothing': {'style': 'casual', 'colors': ['blue', 'white'], 'items': [{'type': 'shirt', 'color': 'blue'}, {'type': 'jeans', 'color': 'white'}]}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nwalking in a village with bull dog, wearing a simple white kurta and pyjama, smiling,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

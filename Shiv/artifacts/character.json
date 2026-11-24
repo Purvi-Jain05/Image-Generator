@@ -1,0 +1,104 @@
+{
+  "character": {
+    "name": "Shiv",
+    "age": 28,
+    "region": "bhopal",
+    "gender": "male",
+    "lifestyle": "guitar artist"
+  },
+  "description": "Shiv is a free-spirited 28-year-old guitar artist from Bhopal. He travels the world, exploring new places, and finds inspiration in the local music and culture. He is passionate about his music and loves to play his guitar in different settings, from street performances to intimate jam sessions.",
+  "objects": [
+    "guitar",
+    "music sheets",
+    "clay",
+    "pottery",
+    "local handicrafts"
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Shiv sitting on a bench in a Bhopal market, playing his guitar and surrounded by local handicrafts.",
+      "appearance": {
+        "face": "smiling, with a hint of mischief",
+        "hair": "messy, curly brown hair",
+        "eyes": "bright, expressive brown eyes",
+        "skin": "olive-toned",
+        "height": "5'9\"",
+        "build": "lean, athletic"
+      },
+      "backstory": "Shiv grew up in Bhopal, surrounded by the rich cultural heritage of the city. He was always fascinated by the local music and instruments, and started playing the guitar at a young age.",
+      "outfit": {
+        "top": "a colorful, hand-woven shirt",
+        "bottom": "a pair of loose-fitting cotton pants",
+        "shoes": "a pair of worn-out sneakers"
+      },
+      "pose": "sitting on a bench, strumming his guitar",
+      "camera": "a wide-angle lens, capturing the vibrant colors of the market",
+      "lighting": "natural light, with a warm, golden glow",
+      "background": "a bustling Bhopal market, with stalls selling local handicrafts and street food"
+    },
+    {
+      "scene": 2,
+      "prompt": "Shiv standing in a quiet, serene lakefront in Bhopal, playing his guitar and surrounded by lush greenery.",
+      "appearance": {
+        "face": "contemplative, with a hint of introspection",
+        "hair": "messy, curly brown hair",
+        "eyes": "bright, expressive brown eyes",
+        "skin": "olive-toned",
+        "height": "5'9\"",
+        "build": "lean, athletic"
+      },
+      "backstory": "Shiv finds inspiration in the natural beauty of the world around him. He loves to play his guitar in peaceful settings, like this serene lakefront in Bhopal.",
+      "outfit": {
+        "top": "a simple, white t-shirt",
+        "bottom": "a pair of comfortable, earth-toned pants",
+        "shoes": "a pair of hiking boots"
+      },
+      "pose": "standing on a rocky outcropping, gazing out at the lake",
+      "camera": "a telephoto lens, capturing the serene beauty of the lakefront",
+      "lighting": "soft, diffused light, with a hint of mist",
+      "background": "a tranquil lakefront in Bhopal, with lush greenery and a serene atmosphere"
+    },
+    {
+      "scene": 3,
+      "prompt": "Shiv performing on a makeshift stage in a lively Bhopal street festival, surrounded by cheering crowds and colorful decorations.",
+      "appearance": {
+        "face": "ecstatic, with a hint of energy",
+        "hair": "messy, curly brown hair",
+        "eyes": "bright, expressive brown eyes",
+        "skin": "olive-toned",
+        "height": "5'9\"",
+        "build": "lean, athletic"
+      },
+      "backstory": "Shiv loves to perform on stage, bringing his music to the people and energizing the crowd.",
+      "outfit": {
+        "top": "a bold, brightly-colored shirt",
+        "bottom": "a pair of tight-fitting pants",
+        "shoes": "a pair of sturdy boots"
+      },
+      "pose": "standing on a makeshift stage, playing his guitar with passion and energy",
+      "camera": "a close-up lens, capturing the excitement of the performance",
+      "lighting": "bright, vibrant light, with a hint of strobes",
+      "background": "a lively Bhopal street festival, with colorful decorations and cheering crowds"
+    }
+  ],
+  "appearance": "a person",
+  "backstory": "",
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "Shiv/images/scene_1.jpg",
+      "prompt": "\na person,\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nShiv sitting on a bench in a Bhopal market, playing his guitar and surrounded by local handicrafts.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "Shiv/images/scene_2.jpg",
+      "prompt": "\na person,\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nShiv standing in a quiet, serene lakefront in Bhopal, playing his guitar and surrounded by lush greenery.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "Shiv/images/scene_3.jpg",
+      "prompt": "\na person,\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nShiv performing on a makeshift stage in a lively Bhopal street festival, surrounded by cheering crowds and colorful decorations.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

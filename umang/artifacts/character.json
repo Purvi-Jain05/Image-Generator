@@ -1,0 +1,176 @@
+{
+  "name": "umang",
+  "age": 25,
+  "region": "assam",
+  "gender": "male",
+  "lifestyle": "pet parent and avid traveler",
+  "description": "umang is a young and adventurous pet parent who loves to travel and explore new places with his furry companion by his side. He is passionate about capturing the beauty of nature and sharing it with the world through his photographs.",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "umang sitting in a cozy tea garden surrounded by lush green hills, wearing a comfortable cotton shirt and jeans, holding a cup of hot tea and smiling at his pet dog",
+      "appearance": {
+        "face": {
+          "shape": "oval",
+          "skin tone": "light brown",
+          "hair": {
+            "color": "black",
+            "style": "messy"
+          },
+          "eyes": {
+            "color": "brown",
+            "shape": "almond"
+          }
+        },
+        "body": {
+          "weight": "65 kg",
+          "height": "170 cm",
+          "muscle mass": "medium"
+        },
+        "clothing": {
+          "shirt": "cotton",
+          "color": "white",
+          "pattern": "stripes",
+          "jeans": "dark blue"
+        },
+        "pose": {
+          "orientation": "relaxed",
+          "angle": "30 degrees"
+        },
+        "camera": {
+          "angle": "45 degrees",
+          "focal length": "50 mm"
+        },
+        "lighting": {
+          "source": "natural",
+          "direction": "soft"
+        },
+        "background": {
+          "color": "green",
+          "pattern": "hills"
+        },
+        "objects": {
+          "cup": "tea",
+          "dog": "pet"
+        }
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "umang standing in front of a majestic tea estate, wearing a fitted t-shirt and trekking pants, holding a backpack and smiling at the breathtaking view",
+      "appearance": {
+        "face": {
+          "shape": "oval",
+          "skin tone": "light brown",
+          "hair": {
+            "color": "black",
+            "style": "messy"
+          },
+          "eyes": {
+            "color": "brown",
+            "shape": "almond"
+          }
+        },
+        "body": {
+          "weight": "65 kg",
+          "height": "170 cm",
+          "muscle mass": "medium"
+        },
+        "clothing": {
+          "t-shirt": "fitted",
+          "color": "navy blue",
+          "pattern": "stripes",
+          "trekking pants": "khaki"
+        },
+        "pose": {
+          "orientation": "dynamic",
+          "angle": "60 degrees"
+        },
+        "camera": {
+          "angle": "30 degrees",
+          "focal length": "24 mm"
+        },
+        "lighting": {
+          "source": "natural",
+          "direction": "strong"
+        },
+        "background": {
+          "color": "green",
+          "pattern": "tea estate"
+        },
+        "objects": {
+          "backpack": "trekking gear",
+          "dog": "pet"
+        }
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "umang sitting on a rock in a serene tea garden, wearing a casual button-down shirt and sweatpants, holding a camera and smiling at the beautiful view",
+      "appearance": {
+        "face": {
+          "shape": "oval",
+          "skin tone": "light brown",
+          "hair": {
+            "color": "black",
+            "style": "messy"
+          },
+          "eyes": {
+            "color": "brown",
+            "shape": "almond"
+          }
+        },
+        "body": {
+          "weight": "65 kg",
+          "height": "170 cm",
+          "muscle mass": "medium"
+        },
+        "clothing": {
+          "shirt": "button-down",
+          "color": "light blue",
+          "pattern": "stripes",
+          "sweatpants": "dark gray"
+        },
+        "pose": {
+          "orientation": "relaxed",
+          "angle": "45 degrees"
+        },
+        "camera": {
+          "angle": "60 degrees",
+          "focal length": "50 mm"
+        },
+        "lighting": {
+          "source": "natural",
+          "direction": "soft"
+        },
+        "background": {
+          "color": "green",
+          "pattern": "hills"
+        },
+        "objects": {
+          "camera": "photography gear",
+          "dog": "pet"
+        }
+      }
+    }
+  ],
+  "appearance": "a person",
+  "backstory": "",
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "umang/images/scene_1.jpg",
+      "prompt": "\na person,\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\numang sitting in a cozy tea garden surrounded by lush green hills, wearing a comfortable cotton shirt and jeans, holding a cup of hot tea and smiling at his pet dog,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "umang/images/scene_2.jpg",
+      "prompt": "\na person,\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\numang standing in front of a majestic tea estate, wearing a fitted t-shirt and trekking pants, holding a backpack and smiling at the breathtaking view,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "umang/images/scene_3.jpg",
+      "prompt": "\na person,\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\numang sitting on a rock in a serene tea garden, wearing a casual button-down shirt and sweatpants, holding a camera and smiling at the beautiful view,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

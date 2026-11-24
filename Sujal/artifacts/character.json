@@ -1,0 +1,228 @@
+{
+  "appearance": {
+    "name": "Sujal",
+    "age": 22,
+    "face": {
+      "shape": "oval",
+      "skin_tone": "medium",
+      "eyes": "dark",
+      "hair": "black"
+    },
+    "body": {
+      "build": "lean",
+      "height": "5'9\"",
+      "weight": "60 kg"
+    },
+    "clothing": {
+      "style": "traditional",
+      "color": "orange",
+      "pattern": "zari"
+    }
+  },
+  "backstory": {
+    "lifestyle": {
+      "role": "zari zardozi artist",
+      "hobbies": "traveling, exploring different places"
+    },
+    "region": {
+      "location": "agra",
+      "culture": "hindu"
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Sujal sitting on a colorful mat, surrounded by threads of different colors, working on a intricate zari zardozi design.",
+      "description": "Sujal is a 22-year-old zari zardozi artist from Agra, India. He loves to explore different places and create beautiful designs using threads of different colors. He is wearing a traditional outfit with an orange kurta and a white dhoti.",
+      "identity": {
+        "name": "Sujal",
+        "age": 22,
+        "face": {
+          "shape": "oval",
+          "skin_tone": "medium",
+          "eyes": "dark",
+          "hair": "black"
+        },
+        "body": {
+          "build": "lean",
+          "height": "5'9\"",
+          "weight": "60 kg"
+        },
+        "clothing": {
+          "style": "traditional",
+          "color": "orange",
+          "pattern": "zari"
+        }
+      },
+      "objects": [
+        {
+          "name": "threads",
+          "color": "red"
+        },
+        {
+          "name": "needles",
+          "color": "silver"
+        }
+      ],
+      "actions": [
+        {
+          "action": "stitching"
+        },
+        {
+          "action": "threading"
+        }
+      ],
+      "pose": {
+        "angle": 45,
+        "position": "sitting"
+      },
+      "camera": {
+        "angle": 30,
+        "position": "above"
+      },
+      "lighting": {
+        "type": "natural",
+        "direction": "east"
+      },
+      "background": {
+        "type": "traditional",
+        "color": "blue"
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "Sujal standing in front of a large zari zardozi design, holding a small thread, looking at it with a critical eye.",
+      "description": "Sujal is a 22-year-old zari zardozi artist from Agra, India. He loves to explore different places and create beautiful designs using threads of different colors. He is wearing a traditional outfit with a white kurta and a blue dhoti.",
+      "identity": {
+        "name": "Sujal",
+        "age": 22,
+        "face": {
+          "shape": "oval",
+          "skin_tone": "medium",
+          "eyes": "dark",
+          "hair": "black"
+        },
+        "body": {
+          "build": "lean",
+          "height": "5'9\"",
+          "weight": "60 kg"
+        },
+        "clothing": {
+          "style": "traditional",
+          "color": "white",
+          "pattern": "zari"
+        }
+      },
+      "objects": [
+        {
+          "name": "zari zardozi design",
+          "color": "yellow"
+        },
+        {
+          "name": "thread",
+          "color": "red"
+        }
+      ],
+      "actions": [
+        {
+          "action": "inspecting"
+        },
+        {
+          "action": "critiquing"
+        }
+      ],
+      "pose": {
+        "angle": 90,
+        "position": "standing"
+      },
+      "camera": {
+        "angle": 60,
+        "position": "slightly above"
+      },
+      "lighting": {
+        "type": "artificial",
+        "direction": "south"
+      },
+      "background": {
+        "type": "traditional",
+        "color": "green"
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "Sujal sitting on a small chair, surrounded by sketches of different zari zardozi designs, looking at a blank sheet of paper with a pencil in his hand.",
+      "description": "Sujal is a 22-year-old zari zardozi artist from Agra, India. He loves to explore different places and create beautiful designs using threads of different colors. He is wearing a traditional outfit with a blue kurta and a white dhoti.",
+      "identity": {
+        "name": "Sujal",
+        "age": 22,
+        "face": {
+          "shape": "oval",
+          "skin_tone": "medium",
+          "eyes": "dark",
+          "hair": "black"
+        },
+        "body": {
+          "build": "lean",
+          "height": "5'9\"",
+          "weight": "60 kg"
+        },
+        "clothing": {
+          "style": "traditional",
+          "color": "blue",
+          "pattern": "zari"
+        }
+      },
+      "objects": [
+        {
+          "name": "sketches",
+          "color": "black"
+        },
+        {
+          "name": "pencil",
+          "color": "yellow"
+        }
+      ],
+      "actions": [
+        {
+          "action": "sketching"
+        },
+        {
+          "action": "thinking"
+        }
+      ],
+      "pose": {
+        "angle": 45,
+        "position": "sitting"
+      },
+      "camera": {
+        "angle": 30,
+        "position": "above"
+      },
+      "lighting": {
+        "type": "natural",
+        "direction": "west"
+      },
+      "background": {
+        "type": "traditional",
+        "color": "brown"
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "Sujal/images/scene_1.jpg",
+      "prompt": "\n{'name': 'Sujal', 'age': 22, 'face': {'shape': 'oval', 'skin_tone': 'medium', 'eyes': 'dark', 'hair': 'black'}, 'body': {'build': 'lean', 'height': '5\\'9\"', 'weight': '60 kg'}, 'clothing': {'style': 'traditional', 'color': 'orange', 'pattern': 'zari'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nSujal sitting on a colorful mat, surrounded by threads of different colors, working on a intricate zari zardozi design.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "Sujal/images/scene_2.jpg",
+      "prompt": "\n{'name': 'Sujal', 'age': 22, 'face': {'shape': 'oval', 'skin_tone': 'medium', 'eyes': 'dark', 'hair': 'black'}, 'body': {'build': 'lean', 'height': '5\\'9\"', 'weight': '60 kg'}, 'clothing': {'style': 'traditional', 'color': 'orange', 'pattern': 'zari'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nSujal standing in front of a large zari zardozi design, holding a small thread, looking at it with a critical eye.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "Sujal/images/scene_3.jpg",
+      "prompt": "\n{'name': 'Sujal', 'age': 22, 'face': {'shape': 'oval', 'skin_tone': 'medium', 'eyes': 'dark', 'hair': 'black'}, 'body': {'build': 'lean', 'height': '5\\'9\"', 'weight': '60 kg'}, 'clothing': {'style': 'traditional', 'color': 'orange', 'pattern': 'zari'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nSujal sitting on a small chair, surrounded by sketches of different zari zardozi designs, looking at a blank sheet of paper with a pencil in his hand.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

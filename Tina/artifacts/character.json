@@ -1,0 +1,97 @@
+{
+  "appearance": {
+    "name": "Tina",
+    "age": 25,
+    "gender": "female",
+    "description": "A 25-year-old female kathakali dancer from Kerala, with long black hair and dark brown eyes. She has a slender yet athletic build, reflecting her passion for dance and adventure.",
+    "face": {
+      "skin tone": "medium brown",
+      "features": "high cheekbones, pointed chin, almond-shaped eyes"
+    },
+    "outfit": {
+      "scene1": "traditional Kerala saree with golden embroidery, matching bangles and a bindi",
+      "scene2": "comfortable dance attire - a pair of leggings and a cropped top, with a statement necklace",
+      "scene3": "dramatic costume - a flowing white saree with intricate temple designs, accompanied by heavy jewelry"
+    },
+    "pose": {
+      "scene1": "standing with hands in a traditional Kerala mudra, with a gentle smile",
+      "scene2": "sitting cross-legged on a floor, with one foot tucked under the other, exuding confidence",
+      "scene3": "standing in a dramatic pose, with arms outstretched and eyes closed, as if in a trance"
+    },
+    "camera": {
+      "scene1": "wide-angle shot, capturing Tina's entire figure",
+      "scene2": "close-up shot, focusing on Tina's face and expressive eyes",
+      "scene3": "low-angle shot, making Tina appear powerful and majestic"
+    },
+    "lighting": {
+      "scene1": "soft natural light, with a warm glow",
+      "scene2": "cool and calm lighting, with a hint of blue undertones",
+      "scene3": "dramatic and intense lighting, with a golden glow"
+    },
+    "background": {
+      "scene1": "traditional Kerala temple, with intricate carvings and colorful decorations",
+      "scene2": "a serene Kerala lake, surrounded by lush greenery and water lilies",
+      "scene3": "a dramatic Kerala landscape, with rugged hills and a misty atmosphere"
+    }
+  },
+  "backstory": {
+    "lifestyle": "Tina is a passionate kathakali dancer, known for her energetic performances and captivating stage presence. She is also an adventure-seeker, always looking for new challenges and experiences. Tina's love for dance and adventure is reflected in her confident and free-spirited personality.",
+    "region": "Kerala is a state in southern India, known for its rich cultural heritage and stunning natural beauty. The region is home to a diverse array of dance forms, including kathakali, which Tina is expertly trained in. Kerala's lush green landscapes, serene lakes, and rugged hills provide the perfect backdrop for Tina's adventures."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Tina stands in front of a traditional Kerala temple, wearing a traditional saree and a warm smile. She is surrounded by intricate carvings and colorful decorations, reflecting the rich cultural heritage of the region.",
+      "description": "Tina is a kathakali dancer, and she is about to perform a traditional dance in front of the temple. The camera captures her entire figure, with soft natural light casting a warm glow.",
+      "actions": {
+        "Tina": "stands with hands in a traditional Kerala mudra, with a gentle smile"
+      },
+      "objects": {
+        "temple": "traditional Kerala temple, with intricate carvings and colorful decorations",
+        "saree": "traditional Kerala saree with golden embroidery, matching bangles and a bindi",
+        "mudra": "traditional Kerala mudra"
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "Tina sits cross-legged on a floor, wearing comfortable dance attire and a confident expression. She is surrounded by a serene Kerala lake, with lush greenery and water lilies.",
+      "description": "Tina is a dancer, and she is in a state of relaxation, preparing for her next performance. The camera captures her face and expressive eyes, with cool and calm lighting casting a soothing effect.",
+      "actions": {
+        "Tina": "sits cross-legged on a floor, with one foot tucked under the other, exuding confidence"
+      },
+      "objects": {
+        "lake": "a serene Kerala lake, surrounded by lush greenery and water lilies",
+        "dance attire": "comfortable dance attire - a pair of leggings and a cropped top, with a statement necklace"
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "Tina stands in a dramatic pose, wearing a flowing white saree and heavy jewelry. She is surrounded by a dramatic Kerala landscape, with rugged hills and a misty atmosphere.",
+      "description": "Tina is a kathakali dancer, and she is about to perform a dramatic dance in front of a dramatic landscape. The camera captures her entire figure, with dramatic and intense lighting casting a golden glow.",
+      "actions": {
+        "Tina": "stands in a dramatic pose, with arms outstretched and eyes closed, as if in a trance"
+      },
+      "objects": {
+        "saree": "dramatic costume - a flowing white saree with intricate temple designs, accompanied by heavy jewelry",
+        "landscape": "a dramatic Kerala landscape, with rugged hills and a misty atmosphere"
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "Tina/images/scene_1.jpg",
+      "prompt": "\n{'name': 'Tina', 'age': 25, 'gender': 'female', 'description': 'A 25-year-old female kathakali dancer from Kerala, with long black hair and dark brown eyes. She has a slender yet athletic build, reflecting her passion for dance and adventure.', 'face': {'skin tone': 'medium brown', 'features': 'high cheekbones, pointed chin, almond-shaped eyes'}, 'outfit': {'scene1': 'traditional Kerala saree with golden embroidery, matching bangles and a bindi', 'scene2': 'comfortable dance attire - a pair of leggings and a cropped top, with a statement necklace', 'scene3': 'dramatic costume - a flowing white saree with intricate temple designs, accompanied by heavy jewelry'}, 'pose': {'scene1': 'standing with hands in a traditional Kerala mudra, with a gentle smile', 'scene2': 'sitting cross-legged on a floor, with one foot tucked under the other, exuding confidence', 'scene3': 'standing in a dramatic pose, with arms outstretched and eyes closed, as if in a trance'}, 'camera': {'scene1': \"wide-angle shot, capturing Tina's entire figure\", 'scene2': \"close-up shot, focusing on Tina's face and expressive eyes\", 'scene3': 'low-angle shot, making Tina appear powerful and majestic'}, 'lighting': {'scene1': 'soft natural light, with a warm glow', 'scene2': 'cool and calm lighting, with a hint of blue undertones', 'scene3': 'dramatic and intense lighting, with a golden glow'}, 'background': {'scene1': 'traditional Kerala temple, with intricate carvings and colorful decorations', 'scene2': 'a serene Kerala lake, surrounded by lush greenery and water lilies', 'scene3': 'a dramatic Kerala landscape, with rugged hills and a misty atmosphere'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nTina stands in front of a traditional Kerala temple, wearing a traditional saree and a warm smile. She is surrounded by intricate carvings and colorful decorations, reflecting the rich cultural heritage of the region.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "Tina/images/scene_2.jpg",
+      "prompt": "\n{'name': 'Tina', 'age': 25, 'gender': 'female', 'description': 'A 25-year-old female kathakali dancer from Kerala, with long black hair and dark brown eyes. She has a slender yet athletic build, reflecting her passion for dance and adventure.', 'face': {'skin tone': 'medium brown', 'features': 'high cheekbones, pointed chin, almond-shaped eyes'}, 'outfit': {'scene1': 'traditional Kerala saree with golden embroidery, matching bangles and a bindi', 'scene2': 'comfortable dance attire - a pair of leggings and a cropped top, with a statement necklace', 'scene3': 'dramatic costume - a flowing white saree with intricate temple designs, accompanied by heavy jewelry'}, 'pose': {'scene1': 'standing with hands in a traditional Kerala mudra, with a gentle smile', 'scene2': 'sitting cross-legged on a floor, with one foot tucked under the other, exuding confidence', 'scene3': 'standing in a dramatic pose, with arms outstretched and eyes closed, as if in a trance'}, 'camera': {'scene1': \"wide-angle shot, capturing Tina's entire figure\", 'scene2': \"close-up shot, focusing on Tina's face and expressive eyes\", 'scene3': 'low-angle shot, making Tina appear powerful and majestic'}, 'lighting': {'scene1': 'soft natural light, with a warm glow', 'scene2': 'cool and calm lighting, with a hint of blue undertones', 'scene3': 'dramatic and intense lighting, with a golden glow'}, 'background': {'scene1': 'traditional Kerala temple, with intricate carvings and colorful decorations', 'scene2': 'a serene Kerala lake, surrounded by lush greenery and water lilies', 'scene3': 'a dramatic Kerala landscape, with rugged hills and a misty atmosphere'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nTina sits cross-legged on a floor, wearing comfortable dance attire and a confident expression. She is surrounded by a serene Kerala lake, with lush greenery and water lilies.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "Tina/images/scene_3.jpg",
+      "prompt": "\n{'name': 'Tina', 'age': 25, 'gender': 'female', 'description': 'A 25-year-old female kathakali dancer from Kerala, with long black hair and dark brown eyes. She has a slender yet athletic build, reflecting her passion for dance and adventure.', 'face': {'skin tone': 'medium brown', 'features': 'high cheekbones, pointed chin, almond-shaped eyes'}, 'outfit': {'scene1': 'traditional Kerala saree with golden embroidery, matching bangles and a bindi', 'scene2': 'comfortable dance attire - a pair of leggings and a cropped top, with a statement necklace', 'scene3': 'dramatic costume - a flowing white saree with intricate temple designs, accompanied by heavy jewelry'}, 'pose': {'scene1': 'standing with hands in a traditional Kerala mudra, with a gentle smile', 'scene2': 'sitting cross-legged on a floor, with one foot tucked under the other, exuding confidence', 'scene3': 'standing in a dramatic pose, with arms outstretched and eyes closed, as if in a trance'}, 'camera': {'scene1': \"wide-angle shot, capturing Tina's entire figure\", 'scene2': \"close-up shot, focusing on Tina's face and expressive eyes\", 'scene3': 'low-angle shot, making Tina appear powerful and majestic'}, 'lighting': {'scene1': 'soft natural light, with a warm glow', 'scene2': 'cool and calm lighting, with a hint of blue undertones', 'scene3': 'dramatic and intense lighting, with a golden glow'}, 'background': {'scene1': 'traditional Kerala temple, with intricate carvings and colorful decorations', 'scene2': 'a serene Kerala lake, surrounded by lush greenery and water lilies', 'scene3': 'a dramatic Kerala landscape, with rugged hills and a misty atmosphere'}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nTina stands in a dramatic pose, wearing a flowing white saree and heavy jewelry. She is surrounded by a dramatic Kerala landscape, with rugged hills and a misty atmosphere.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

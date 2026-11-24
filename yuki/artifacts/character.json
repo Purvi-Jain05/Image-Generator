@@ -1,0 +1,18 @@
+{
+  "appearance": "tall, dark hair, and piercing brown eyes with a sharp jawline, fitting a traditional Japanese male",
+  "backstory": "yuki was once a timid young boy from rural Japan, but after a life-changing experience, he found his inner strength and became a brave warrior",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "a serene Japanese forest with a misty dawn and yuki walking alone, his back to the camera, with a determined look on his face"
+    },
+    {
+      "scene": 2,
+      "prompt": "a bustling Tokyo street with neon lights and yuki navigating through the crowd with confidence and a hint of mischief"
+    },
+    {
+      "scene": 3,
+      "prompt": "a tranquil Japanese garden with a full moon and yuki sitting on a stone bench, lost in thought with a hint of sadness"
+    }
+  ]
+}

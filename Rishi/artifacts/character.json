@@ -1,0 +1,78 @@
+{
+  "name": "Rishi",
+  "age": 27,
+  "region": "Jammu",
+  "gender": "Male",
+  "lifestyle": {
+    "description": "a guitar artist who loves to explore different places",
+    "backstory": {
+      "hobbies": [
+        "guitar",
+        "traveling",
+        "photography"
+      ],
+      "favorite places": [
+        "Jammu",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "favourite music": [
+        "classic rock",
+        "indie folk"
+      ]
+    }
+  },
+  "appearance": {
+    "face": {
+      "skin tone": "fair",
+      "hair color": "dark brown",
+      "eye color": "brown"
+    },
+    "body": {
+      "height": 175,
+      "weight": 70
+    },
+    "clothing": {
+      "scene 1": "casual outfit with a guitar strap",
+      "scene 2": "traveling outfit with a backpack and hat",
+      "scene 3": "formal outfit with a suit and tie"
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Rishi playing guitar in a cozy cafe in Jammu",
+      "description": "Rishi is sitting on a couch in a cozy cafe in Jammu, playing his guitar. He is wearing a casual outfit with a guitar strap and has a peaceful expression on his face. The background is a warm and inviting atmosphere with traditional Kashmiri music playing in the background.",
+      "objects": [
+        "guitar",
+        "coffee cup",
+        "book"
+      ],
+      "action": "playing guitar"
+    },
+    {
+      "scene": 2,
+      "prompt": "Rishi exploring the countryside in Jammu",
+      "description": "Rishi is standing in a beautiful countryside landscape in Jammu, with a backpack and hat on. He is holding a camera and has a curious expression on his face. The background is a stunning natural landscape with rolling hills and green forests.",
+      "objects": [
+        "camera",
+        "backpack",
+        "hiking boots"
+      ],
+      "action": "exploring"
+    },
+    {
+      "scene": 3,
+      "prompt": "Rishi performing on stage in Jammu",
+      "description": "Rishi is standing on a stage in Jammu, wearing a formal outfit with a suit and tie. He is holding a guitar and has a confident expression on his face. The background is a bright and lively atmosphere with a large crowd cheering him on.",
+      "objects": [
+        "guitar",
+        "microphone",
+        "stage lights"
+      ],
+      "action": "performing"
+    }
+  ],
+  "backstory": "",
+  "generated_images": []
+}

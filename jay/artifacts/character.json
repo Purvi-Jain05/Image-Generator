@@ -1,0 +1,165 @@
+{
+  "appearance": {
+    "name": "jay",
+    "age": 26,
+    "gender": "male",
+    "face": {
+      "shape": "oval",
+      "skin": "fair",
+      "features": {
+        "eyes": "brown",
+        "nose": "slightly prominent",
+        "mouth": "smiling"
+      }
+    },
+    "hair": {
+      "style": "messy",
+      "color": "dark brown"
+    },
+    "body": {
+      "build": "athletic",
+      "height": 175,
+      "weight": 65
+    },
+    "clothing": {
+      "scene1": {
+        "shirt": "t-shirt",
+        "pants": "jeans",
+        "shoes": "sneakers"
+      },
+      "scene2": {
+        "shirt": "t-shirt",
+        "pants": "track pants",
+        "shoes": "running shoes"
+      },
+      "scene3": {
+        "shirt": "t-shirt",
+        "pants": "khaki pants",
+        "shoes": "hiking boots"
+      }
+    }
+  },
+  "backstory": {
+    "lifestyle": "pet parent",
+    "region": "varanasi",
+    "description": "Jay is a pet parent who loves to explore different places in Varanasi with his pet dog, Max. He is a young and energetic person who enjoys spending time outdoors and trying new things."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Jay walking with Max in the streets of Varanasi",
+      "appearance": {
+        "clothing": {
+          "shirt": "t-shirt",
+          "pants": "jeans",
+          "shoes": "sneakers"
+        },
+        "pose": "relaxed",
+        "camera": {
+          "angle": "medium",
+          "distance": "close"
+        },
+        "background": {
+          "type": "urban",
+          "color": "warm",
+          "objects": {
+            "building": "old building",
+            "street": "cobblestone street",
+            "vehicle": "rickshaw"
+          }
+        },
+        "lighting": {
+          "type": "natural",
+          "color": "warm"
+        },
+        "objects": {
+          "pet": "dog",
+          "object": "leash"
+        }
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "Jay playing with Max in a park in Varanasi",
+      "appearance": {
+        "clothing": {
+          "shirt": "t-shirt",
+          "pants": "track pants",
+          "shoes": "running shoes"
+        },
+        "pose": "active",
+        "camera": {
+          "angle": "wide",
+          "distance": "far"
+        },
+        "background": {
+          "type": "natural",
+          "color": "green",
+          "objects": {
+            "building": "old building",
+            "street": "park path",
+            "tree": "tree"
+          }
+        },
+        "lighting": {
+          "type": "natural",
+          "color": "warm"
+        },
+        "objects": {
+          "pet": "dog",
+          "object": "ball"
+        }
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "Jay and Max hiking in the hills of Varanasi",
+      "appearance": {
+        "clothing": {
+          "shirt": "t-shirt",
+          "pants": "khaki pants",
+          "shoes": "hiking boots"
+        },
+        "pose": "relaxed",
+        "camera": {
+          "angle": "low",
+          "distance": "close"
+        },
+        "background": {
+          "type": "natural",
+          "color": "cool",
+          "objects": {
+            "building": "old temple",
+            "street": "hiking path",
+            "rock": "rock"
+          }
+        },
+        "lighting": {
+          "type": "natural",
+          "color": "cool"
+        },
+        "objects": {
+          "pet": "dog",
+          "object": "hiking pole"
+        }
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "jay/images/scene_1.jpg",
+      "prompt": "\n{'name': 'jay', 'age': 26, 'gender': 'male', 'face': {'shape': 'oval', 'skin': 'fair', 'features': {'eyes': 'brown', 'nose': 'slightly prominent', 'mouth': 'smiling'}}, 'hair': {'style': 'messy', 'color': 'dark brown'}, 'body': {'build': 'athletic', 'height': 175, 'weight': 65}, 'clothing': {'scene1': {'shirt': 't-shirt', 'pants': 'jeans', 'shoes': 'sneakers'}, 'scene2': {'shirt': 't-shirt', 'pants': 'track pants', 'shoes': 'running shoes'}, 'scene3': {'shirt': 't-shirt', 'pants': 'khaki pants', 'shoes': 'hiking boots'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nJay walking with Max in the streets of Varanasi,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "jay/images/scene_2.jpg",
+      "prompt": "\n{'name': 'jay', 'age': 26, 'gender': 'male', 'face': {'shape': 'oval', 'skin': 'fair', 'features': {'eyes': 'brown', 'nose': 'slightly prominent', 'mouth': 'smiling'}}, 'hair': {'style': 'messy', 'color': 'dark brown'}, 'body': {'build': 'athletic', 'height': 175, 'weight': 65}, 'clothing': {'scene1': {'shirt': 't-shirt', 'pants': 'jeans', 'shoes': 'sneakers'}, 'scene2': {'shirt': 't-shirt', 'pants': 'track pants', 'shoes': 'running shoes'}, 'scene3': {'shirt': 't-shirt', 'pants': 'khaki pants', 'shoes': 'hiking boots'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nJay playing with Max in a park in Varanasi,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "jay/images/scene_3.jpg",
+      "prompt": "\n{'name': 'jay', 'age': 26, 'gender': 'male', 'face': {'shape': 'oval', 'skin': 'fair', 'features': {'eyes': 'brown', 'nose': 'slightly prominent', 'mouth': 'smiling'}}, 'hair': {'style': 'messy', 'color': 'dark brown'}, 'body': {'build': 'athletic', 'height': 175, 'weight': 65}, 'clothing': {'scene1': {'shirt': 't-shirt', 'pants': 'jeans', 'shoes': 'sneakers'}, 'scene2': {'shirt': 't-shirt', 'pants': 'track pants', 'shoes': 'running shoes'}, 'scene3': {'shirt': 't-shirt', 'pants': 'khaki pants', 'shoes': 'hiking boots'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nJay and Max hiking in the hills of Varanasi,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

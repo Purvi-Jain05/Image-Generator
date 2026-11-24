@@ -1,0 +1,69 @@
+{
+  "appearance": {
+    "name": "dev",
+    "age": 24,
+    "gender": "male",
+    "lifestyle": "construction worker",
+    "region": "Bihar",
+    "body_type": "athletic",
+    "hair": "dark brown",
+    "skin_tone": "olive",
+    "eye_color": "brown",
+    "facial_hair": "short beard"
+  },
+  "backstory": {
+    "family_background": "from a small village in Bihar",
+    "education": "dropped out of school to work in construction",
+    "job_history": "has been working in construction for 5 years",
+    "goals": "wants to save money to start his own construction business"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "cinematic scene with Bihar region-based background, construction worker outfit, standing pose with a hard hat and a hammer"
+    },
+    {
+      "scene": 2,
+      "prompt": "different outfit, wearing a yellow t-shirt and blue jeans, sitting on a rock with a pickaxe, same character, same region background"
+    },
+    {
+      "scene": 3,
+      "prompt": "dramatic scene, with dramatic lighting, same identity, standing in front of a large construction site in Bihar, looking tired and exhausted"
+    },
+    {
+      "scene": 4,
+      "prompt": "close-up portrait, with soft lighting, same identity, looking directly at the camera, with a concerned expression"
+    },
+    {
+      "scene": 5,
+      "prompt": "action scene, with fast-paced camera movement, same identity, running towards a construction site in Bihar, wearing a red vest and a white hard hat"
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "dev/images/scene_1.jpg",
+      "prompt": "\n{'name': 'dev', 'age': 24, 'gender': 'male', 'lifestyle': 'construction worker', 'region': 'Bihar', 'body_type': 'athletic', 'hair': 'dark brown', 'skin_tone': 'olive', 'eye_color': 'brown', 'facial_hair': 'short beard'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\ncinematic scene with Bihar region-based background, construction worker outfit, standing pose with a hard hat and a hammer,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "dev/images/scene_2.jpg",
+      "prompt": "\n{'name': 'dev', 'age': 24, 'gender': 'male', 'lifestyle': 'construction worker', 'region': 'Bihar', 'body_type': 'athletic', 'hair': 'dark brown', 'skin_tone': 'olive', 'eye_color': 'brown', 'facial_hair': 'short beard'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\ndifferent outfit, wearing a yellow t-shirt and blue jeans, sitting on a rock with a pickaxe, same character, same region background,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "dev/images/scene_3.jpg",
+      "prompt": "\n{'name': 'dev', 'age': 24, 'gender': 'male', 'lifestyle': 'construction worker', 'region': 'Bihar', 'body_type': 'athletic', 'hair': 'dark brown', 'skin_tone': 'olive', 'eye_color': 'brown', 'facial_hair': 'short beard'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\ndramatic scene, with dramatic lighting, same identity, standing in front of a large construction site in Bihar, looking tired and exhausted,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 4,
+      "image_path": "dev/images/scene_4.jpg",
+      "prompt": "\n{'name': 'dev', 'age': 24, 'gender': 'male', 'lifestyle': 'construction worker', 'region': 'Bihar', 'body_type': 'athletic', 'hair': 'dark brown', 'skin_tone': 'olive', 'eye_color': 'brown', 'facial_hair': 'short beard'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nclose-up portrait, with soft lighting, same identity, looking directly at the camera, with a concerned expression,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 5,
+      "image_path": "dev/images/scene_5.jpg",
+      "prompt": "\n{'name': 'dev', 'age': 24, 'gender': 'male', 'lifestyle': 'construction worker', 'region': 'Bihar', 'body_type': 'athletic', 'hair': 'dark brown', 'skin_tone': 'olive', 'eye_color': 'brown', 'facial_hair': 'short beard'},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\naction scene, with fast-paced camera movement, same identity, running towards a construction site in Bihar, wearing a red vest and a white hard hat,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

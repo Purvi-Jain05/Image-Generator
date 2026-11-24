@@ -1,0 +1,75 @@
+{
+  "appearance": {
+    "name": "shraya",
+    "age": 28,
+    "region": "sri Lanka",
+    "gender": "female",
+    "face": {
+      "skin": "#C9E4CA",
+      "eyes": "#2C3E50",
+      "hair": {
+        "color": "#786C3B",
+        "style": "long",
+        "texture": "curly"
+      },
+      "smile": "warm"
+    },
+    "body": {
+      "height": 165,
+      "weight": 55,
+      "build": "petite",
+      "pose": "relaxed"
+    },
+    "clothing": {
+      "top": {
+        "type": "t-shirt",
+        "color": "#C9E4CA"
+      },
+      "bottom": {
+        "type": "shorts",
+        "color": "#786C3B"
+      },
+      "shoes": {
+        "type": "sandals",
+        "color": "#C9E4CA"
+      },
+      "accessories": {
+        "jewelry": "minimal"
+      }
+    },
+    "environment": {
+      "background": "beach",
+      "decor": "cozy",
+      "lighting": "natural"
+    },
+    "pet": {
+      "name": "Rex",
+      "type": "bull dog",
+      "age": 2,
+      "size": "medium",
+      "color": "#786C3B"
+    }
+  },
+  "backstory": {
+    "hometown": "Colombo",
+    "family": "close-knit",
+    "education": "graduate",
+    "career": "freelancer",
+    "hobbies": "photography, traveling, reading",
+    "personality": "caring, adventurous, creative"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "shraya playing with Rex on the beach"
+    },
+    {
+      "scene": 2,
+      "prompt": "shraya cuddling with Rex on the couch"
+    },
+    {
+      "scene": 3,
+      "prompt": "shraya taking Rex for a walk in the park"
+    }
+  ]
+}

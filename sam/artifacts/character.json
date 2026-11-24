@@ -1,0 +1,123 @@
+{
+  "name": "sam",
+  "age": 24,
+  "region": "Himachal Pradesh",
+  "gender": "male",
+  "lifestyle": "tourist guide and pet parent",
+  "description": "sam is a charming and adventurous tourist guide who loves exploring the beautiful landscapes of Himachal Pradesh. As a pet parent, he has a soft spot for animals and often brings his furry friends along on his tours.",
+  "appearance": {
+    "face": {
+      "shape": "oval",
+      "features": {
+        "eyes": "bright brown",
+        "nose": "slightly upturned",
+        "mouth": "smiling"
+      }
+    },
+    "body": {
+      "build": "fit",
+      "hair": "dark brown",
+      "height": "5'9\"",
+      "weight": "150 lbs"
+    },
+    "outfit": [
+      {
+        "scene": 1,
+        "description": "casual trekking outfit",
+        "color": "earth tones",
+        "items": [
+          "t-shirt",
+          "hiking pants",
+          "jacket",
+          "hiking boots"
+        ]
+      },
+      {
+        "scene": 2,
+        "description": "business casual outfit",
+        "color": "navy blue",
+        "items": [
+          "dress shirt",
+          "khaki pants",
+          "leather shoes"
+        ]
+      },
+      {
+        "scene": 3,
+        "description": "outdoor adventurer outfit",
+        "color": "bright colors",
+        "items": [
+          "t-shirt",
+          "fleece jacket",
+          "hiking boots"
+        ]
+      }
+    ]
+  },
+  "backstory": {
+    "family": "sam comes from a family of adventure seekers and guides.",
+    "education": "he studied hospitality and tourism management.",
+    "experience": "he has been working as a tourist guide for 5 years and has led numerous treks and tours throughout Himachal Pradesh."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "standing in front of a majestic mountain range, wearing a casual trekking outfit, with a friendly dog by his side",
+      "background": "a stunning mountain range with snow-capped peaks and lush green forests",
+      "pose": "standing with his arms crossed, smiling at the camera",
+      "camera": "wide-angle lens with a slight fisheye effect",
+      "lighting": "natural light with a slight golden glow",
+      "objects": [
+        "hiking boots",
+        "trekking poles",
+        "water bottle",
+        "friendly dog"
+      ]
+    },
+    {
+      "scene": 2,
+      "prompt": "sitting in a cozy caf\u00e9, wearing a business casual outfit, with a laptop and notes in front of him",
+      "background": "a warm and cozy caf\u00e9 with wooden furniture and a fireplace",
+      "pose": "sitting with his arms crossed, looking at the camera with a confident expression",
+      "camera": "close-up lens with a slight soft focus",
+      "lighting": "warm and inviting lighting with a slight orange glow",
+      "objects": [
+        "laptop",
+        "notes",
+        "coffee cup",
+        "leather shoes"
+      ]
+    },
+    {
+      "scene": 3,
+      "prompt": "standing in front of a rushing river, wearing an outdoor adventurer outfit, with a backpack and trekking poles in hand",
+      "background": "a stunning river with crystal-clear water and lush green surroundings",
+      "pose": "standing with his arms outstretched, looking out at the camera with a sense of excitement",
+      "camera": "wide-angle lens with a slight fisheye effect",
+      "lighting": "natural light with a slight blue glow",
+      "objects": [
+        "backpack",
+        "trekking poles",
+        "water bottle",
+        "friendly dog"
+      ]
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "sam/images/scene_1.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': {'eyes': 'bright brown', 'nose': 'slightly upturned', 'mouth': 'smiling'}}, 'body': {'build': 'fit', 'hair': 'dark brown', 'height': '5\\'9\"', 'weight': '150 lbs'}, 'outfit': [{'scene': 1, 'description': 'casual trekking outfit', 'color': 'earth tones', 'items': ['t-shirt', 'hiking pants', 'jacket', 'hiking boots']}, {'scene': 2, 'description': 'business casual outfit', 'color': 'navy blue', 'items': ['dress shirt', 'khaki pants', 'leather shoes']}, {'scene': 3, 'description': 'outdoor adventurer outfit', 'color': 'bright colors', 'items': ['t-shirt', 'fleece jacket', 'hiking boots']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nstanding in front of a majestic mountain range, wearing a casual trekking outfit, with a friendly dog by his side,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "sam/images/scene_2.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': {'eyes': 'bright brown', 'nose': 'slightly upturned', 'mouth': 'smiling'}}, 'body': {'build': 'fit', 'hair': 'dark brown', 'height': '5\\'9\"', 'weight': '150 lbs'}, 'outfit': [{'scene': 1, 'description': 'casual trekking outfit', 'color': 'earth tones', 'items': ['t-shirt', 'hiking pants', 'jacket', 'hiking boots']}, {'scene': 2, 'description': 'business casual outfit', 'color': 'navy blue', 'items': ['dress shirt', 'khaki pants', 'leather shoes']}, {'scene': 3, 'description': 'outdoor adventurer outfit', 'color': 'bright colors', 'items': ['t-shirt', 'fleece jacket', 'hiking boots']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nsitting in a cozy caf\u00e9, wearing a business casual outfit, with a laptop and notes in front of him,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "sam/images/scene_3.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': {'eyes': 'bright brown', 'nose': 'slightly upturned', 'mouth': 'smiling'}}, 'body': {'build': 'fit', 'hair': 'dark brown', 'height': '5\\'9\"', 'weight': '150 lbs'}, 'outfit': [{'scene': 1, 'description': 'casual trekking outfit', 'color': 'earth tones', 'items': ['t-shirt', 'hiking pants', 'jacket', 'hiking boots']}, {'scene': 2, 'description': 'business casual outfit', 'color': 'navy blue', 'items': ['dress shirt', 'khaki pants', 'leather shoes']}, {'scene': 3, 'description': 'outdoor adventurer outfit', 'color': 'bright colors', 'items': ['t-shirt', 'fleece jacket', 'hiking boots']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nstanding in front of a rushing river, wearing an outdoor adventurer outfit, with a backpack and trekking poles in hand,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

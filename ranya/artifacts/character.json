@@ -1,0 +1,18 @@
+{
+  "appearance": "petite woman with short, dark hair and pale skin from the UK",
+  "backstory": "Ranya struggled with anxiety after losing her parents in a tragic accident",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "A lone ranya walks the foggy streets of London, lost in thought"
+    },
+    {
+      "scene": 2,
+      "prompt": "Ranya stands firm in front of a protest crowd in the UK, voice raised in defiance"
+    },
+    {
+      "scene": 3,
+      "prompt": "Ranya sits on a hill overlooking a UK countryside village, reflecting on her past"
+    }
+  ]
+}

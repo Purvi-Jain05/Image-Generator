@@ -1,0 +1,147 @@
+{
+  "appearance": {
+    "name": "Shina",
+    "age": 21,
+    "gender": "female",
+    "face": {
+      "shape": "oval",
+      "color": "light brown",
+      "features": {
+        "eyes": "small",
+        "nose": "slender",
+        "mouth": "smiling"
+      }
+    },
+    "body": {
+      "height": "5'6\"",
+      "weight": "120 lbs",
+      "build": "petite"
+    },
+    "hair": {
+      "color": "black",
+      "style": "short, straight"
+    },
+    "outfit": [
+      {
+        "scene": 1,
+        "description": "traditional Korean hanbok with red and blue patterns",
+        "details": {
+          "top": "long, flowing jacket",
+          "bottom": "wide, flared pants"
+        }
+      },
+      {
+        "scene": 2,
+        "description": "modern Korean-inspired outfit with white and black patterns",
+        "details": {
+          "top": "short, fitted jacket",
+          "bottom": "skinny, dark jeans"
+        }
+      },
+      {
+        "scene": 3,
+        "description": "simple white lab coat with a pair of dark pants",
+        "details": {
+          "top": "long, sleeveless coat",
+          "bottom": "dark, fitted pants"
+        }
+      }
+    ]
+  },
+  "backstory": {
+    "lifestyle": "doctor",
+    "region": "south korea",
+    "biography": "Shina is a young and ambitious doctor from south Korea. She studied medicine at a top university and now works at a major hospital in Seoul. She is passionate about her work and is always looking for ways to improve her skills and help her patients."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "scene 1 cinematic scene with region-based background, outfit, pose",
+      "background": {
+        "type": "traditional Korean village",
+        "description": "a small village in the countryside with traditional Korean houses and buildings",
+        "features": {
+          "mountains": "in the distance",
+          "river": "running through the village"
+        }
+      },
+      "camera": {
+        "angle": "low-angle",
+        "position": "behind Shina"
+      },
+      "lighting": {
+        "type": "natural",
+        "description": "soft, warm light from the sun"
+      },
+      "pose": {
+        "type": "standing",
+        "description": "Shina standing in front of a traditional Korean house"
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "scene 2 different outfit, different pose, different camera, same character, region background",
+      "background": {
+        "type": "modern Korean city",
+        "description": "a bustling city with tall skyscrapers and neon lights",
+        "features": {
+          "high-rise buildings": "all around",
+          "street vendors": "selling traditional Korean food"
+        }
+      },
+      "camera": {
+        "angle": "high-angle",
+        "position": "above Shina"
+      },
+      "lighting": {
+        "type": "artificial",
+        "description": "bright, colorful lights from the city"
+      },
+      "pose": {
+        "type": "sitting",
+        "description": "Shina sitting on a bench, looking at a city map"
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "scene 3 dramatic scene, different lighting, same identity, strong region background",
+      "background": {
+        "type": "traditional Korean hospital",
+        "description": "a large hospital with traditional Korean architecture",
+        "features": {
+          "nurses' station": "in the center",
+          "patients' beds": "all around"
+        }
+      },
+      "camera": {
+        "angle": "close-up",
+        "position": "in front of Shina"
+      },
+      "lighting": {
+        "type": "dramatic",
+        "description": "strong, harsh light from the operating room"
+      },
+      "pose": {
+        "type": "standing",
+        "description": "Shina standing in front of an operating table"
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "Shina/images/scene_1.jpg",
+      "prompt": "\n{'name': 'Shina', 'age': 21, 'gender': 'female', 'face': {'shape': 'oval', 'color': 'light brown', 'features': {'eyes': 'small', 'nose': 'slender', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'petite'}, 'hair': {'color': 'black', 'style': 'short, straight'}, 'outfit': [{'scene': 1, 'description': 'traditional Korean hanbok with red and blue patterns', 'details': {'top': 'long, flowing jacket', 'bottom': 'wide, flared pants'}}, {'scene': 2, 'description': 'modern Korean-inspired outfit with white and black patterns', 'details': {'top': 'short, fitted jacket', 'bottom': 'skinny, dark jeans'}}, {'scene': 3, 'description': 'simple white lab coat with a pair of dark pants', 'details': {'top': 'long, sleeveless coat', 'bottom': 'dark, fitted pants'}}]},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nscene 1 cinematic scene with region-based background, outfit, pose,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "Shina/images/scene_2.jpg",
+      "prompt": "\n{'name': 'Shina', 'age': 21, 'gender': 'female', 'face': {'shape': 'oval', 'color': 'light brown', 'features': {'eyes': 'small', 'nose': 'slender', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'petite'}, 'hair': {'color': 'black', 'style': 'short, straight'}, 'outfit': [{'scene': 1, 'description': 'traditional Korean hanbok with red and blue patterns', 'details': {'top': 'long, flowing jacket', 'bottom': 'wide, flared pants'}}, {'scene': 2, 'description': 'modern Korean-inspired outfit with white and black patterns', 'details': {'top': 'short, fitted jacket', 'bottom': 'skinny, dark jeans'}}, {'scene': 3, 'description': 'simple white lab coat with a pair of dark pants', 'details': {'top': 'long, sleeveless coat', 'bottom': 'dark, fitted pants'}}]},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nscene 2 different outfit, different pose, different camera, same character, region background,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "Shina/images/scene_3.jpg",
+      "prompt": "\n{'name': 'Shina', 'age': 21, 'gender': 'female', 'face': {'shape': 'oval', 'color': 'light brown', 'features': {'eyes': 'small', 'nose': 'slender', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'petite'}, 'hair': {'color': 'black', 'style': 'short, straight'}, 'outfit': [{'scene': 1, 'description': 'traditional Korean hanbok with red and blue patterns', 'details': {'top': 'long, flowing jacket', 'bottom': 'wide, flared pants'}}, {'scene': 2, 'description': 'modern Korean-inspired outfit with white and black patterns', 'details': {'top': 'short, fitted jacket', 'bottom': 'skinny, dark jeans'}}, {'scene': 3, 'description': 'simple white lab coat with a pair of dark pants', 'details': {'top': 'long, sleeveless coat', 'bottom': 'dark, fitted pants'}}]},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nscene 3 dramatic scene, different lighting, same identity, strong region background,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

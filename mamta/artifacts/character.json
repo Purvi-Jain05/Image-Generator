@@ -1,0 +1,203 @@
+{
+  "name": "mamta",
+  "age": 25,
+  "region": "south Indian",
+  "gender": "Female",
+  "lifestyle": "handloom saree maker and a famous classical dancer",
+  "description": "mamta is a skilled handloom saree maker and a renowned classical dancer from the south Indian region. she is known for her intricate designs and mesmerizing performances.",
+  "appearance": {
+    "face": {
+      "shape": "heart",
+      "features": {
+        "eyes": "brown",
+        "nose": "small",
+        "mouth": "smiling"
+      }
+    },
+    "body": {
+      "height": "5'6\"",
+      "weight": "120 lbs",
+      "build": "athletic"
+    },
+    "hair": {
+      "color": "black",
+      "style": "long ponytail"
+    },
+    "outfit": [
+      {
+        "scene": 1,
+        "type": "traditional",
+        "colors": [
+          "red",
+          "gold"
+        ],
+        "patterns": [
+          "intricate floral"
+        ]
+      },
+      {
+        "scene": 2,
+        "type": "modern",
+        "colors": [
+          "blue",
+          "white"
+        ],
+        "patterns": [
+          "geometric"
+        ]
+      },
+      {
+        "scene": 3,
+        "type": "dramatic",
+        "colors": [
+          "black",
+          "silver"
+        ],
+        "patterns": [
+          "bold stripes"
+        ]
+      }
+    ]
+  },
+  "backstory": {
+    "family": {
+      "parents": "influenced by traditional south Indian culture",
+      "siblings": "two younger brothers"
+    },
+    "education": {
+      "degree": "Diploma in textile design",
+      "institution": "National Institute of Fashion Technology"
+    },
+    "career": {
+      "title": "Handloom saree maker and classical dancer",
+      "years": "10+ years"
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "mamta standing in a traditional south Indian setting, wearing a traditional saree and holding a handloom",
+      "objects": [
+        {
+          "type": "handloom",
+          "description": "a traditional south Indian handloom used for weaving sarees"
+        },
+        {
+          "type": "saree",
+          "description": "a traditional south Indian saree with intricate designs"
+        }
+      ],
+      "actions": [
+        {
+          "type": "standing",
+          "pose": "relaxed"
+        },
+        {
+          "type": "holding",
+          "object": "handloom"
+        }
+      ],
+      "background": {
+        "type": "traditional south Indian",
+        "image": "a traditional south Indian temple with intricate carvings and vibrant colors"
+      },
+      "lighting": {
+        "type": "natural",
+        "direction": "soft"
+      },
+      "camera": {
+        "type": "wide-angle",
+        "angle": "45 degrees"
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "mamta sitting in a modern studio, wearing a modern outfit and holding a dance prop",
+      "objects": [
+        {
+          "type": "dance prop",
+          "description": "a traditional south Indian dance prop used for classical dance performances"
+        },
+        {
+          "type": "modern outfit",
+          "description": "a modern outfit with a mix of traditional and modern elements"
+        }
+      ],
+      "actions": [
+        {
+          "type": "sitting",
+          "pose": "relaxed"
+        },
+        {
+          "type": "holding",
+          "object": "dance prop"
+        }
+      ],
+      "background": {
+        "type": "modern studio",
+        "image": "a modern studio with a minimalist aesthetic and natural light"
+      },
+      "lighting": {
+        "type": "natural",
+        "direction": "soft"
+      },
+      "camera": {
+        "type": "close-up",
+        "angle": "30 degrees"
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "mamta standing in a dramatic setting, wearing a dramatic outfit and holding a traditional instrument",
+      "objects": [
+        {
+          "type": "traditional instrument",
+          "description": "a traditional south Indian instrument used for classical music performances"
+        },
+        {
+          "type": "dramatic outfit",
+          "description": "a dramatic outfit with bold colors and patterns"
+        }
+      ],
+      "actions": [
+        {
+          "type": "standing",
+          "pose": "dramatic"
+        },
+        {
+          "type": "holding",
+          "object": "traditional instrument"
+        }
+      ],
+      "background": {
+        "type": "dramatic setting",
+        "image": "a dramatic setting with bold colors and patterns"
+      },
+      "lighting": {
+        "type": "artificial",
+        "direction": "harsh"
+      },
+      "camera": {
+        "type": "wide-angle",
+        "angle": "90 degrees"
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "mamta/images/scene_1.jpg",
+      "prompt": "\n{'face': {'shape': 'heart', 'features': {'eyes': 'brown', 'nose': 'small', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'athletic'}, 'hair': {'color': 'black', 'style': 'long ponytail'}, 'outfit': [{'scene': 1, 'type': 'traditional', 'colors': ['red', 'gold'], 'patterns': ['intricate floral']}, {'scene': 2, 'type': 'modern', 'colors': ['blue', 'white'], 'patterns': ['geometric']}, {'scene': 3, 'type': 'dramatic', 'colors': ['black', 'silver'], 'patterns': ['bold stripes']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nmamta standing in a traditional south Indian setting, wearing a traditional saree and holding a handloom,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "mamta/images/scene_2.jpg",
+      "prompt": "\n{'face': {'shape': 'heart', 'features': {'eyes': 'brown', 'nose': 'small', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'athletic'}, 'hair': {'color': 'black', 'style': 'long ponytail'}, 'outfit': [{'scene': 1, 'type': 'traditional', 'colors': ['red', 'gold'], 'patterns': ['intricate floral']}, {'scene': 2, 'type': 'modern', 'colors': ['blue', 'white'], 'patterns': ['geometric']}, {'scene': 3, 'type': 'dramatic', 'colors': ['black', 'silver'], 'patterns': ['bold stripes']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nmamta sitting in a modern studio, wearing a modern outfit and holding a dance prop,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "mamta/images/scene_3.jpg",
+      "prompt": "\n{'face': {'shape': 'heart', 'features': {'eyes': 'brown', 'nose': 'small', 'mouth': 'smiling'}}, 'body': {'height': '5\\'6\"', 'weight': '120 lbs', 'build': 'athletic'}, 'hair': {'color': 'black', 'style': 'long ponytail'}, 'outfit': [{'scene': 1, 'type': 'traditional', 'colors': ['red', 'gold'], 'patterns': ['intricate floral']}, {'scene': 2, 'type': 'modern', 'colors': ['blue', 'white'], 'patterns': ['geometric']}, {'scene': 3, 'type': 'dramatic', 'colors': ['black', 'silver'], 'patterns': ['bold stripes']}]},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nmamta standing in a dramatic setting, wearing a dramatic outfit and holding a traditional instrument,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "appearance": {
+    "name": "Achal",
+    "age": 24,
+    "gender": "female",
+    "region": "Nepal",
+    "lifestyle": "writer, pet parent",
+    "description": "Achal is a young writer from Nepal who loves to explore different areas and is also a devoted pet parent.",
+    "face": {
+      "shape": "oval",
+      "features": {
+        "eyes": {
+          "color": "dark brown",
+          "shape": "almond"
+        },
+        "nose": "slight",
+        "mouth": "full"
+      },
+      "expression": "smiling"
+    },
+    "outfit": {
+      "scene1": {
+        "top": "orange kurta",
+        "bottom": "white salwar",
+        "shoes": "brown juttis"
+      },
+      "scene2": {
+        "top": "blue t-shirt",
+        "bottom": "black leggings",
+        "shoes": "white sneakers"
+      },
+      "scene3": {
+        "top": "red sweater",
+        "bottom": "gray jeans",
+        "shoes": "brown boots"
+      }
+    },
+    "pose": {
+      "scene1": {
+        "standing": true,
+        "leaning": true
+      },
+      "scene2": {
+        "sitting": true,
+        "crossing": true
+      },
+      "scene3": {
+        "lying": true,
+        "reading": true
+      }
+    },
+    "camera": {
+      "scene1": {
+        "angle": "bird's eye",
+        "distance": "medium"
+      },
+      "scene2": {
+        "angle": "profile",
+        "distance": "close"
+      },
+      "scene3": {
+        "angle": "overhead",
+        "distance": "far"
+      }
+    },
+    "lighting": {
+      "scene1": {
+        "natural": true,
+        "color": "warm"
+      },
+      "scene2": {
+        "artificial": true,
+        "color": "cool"
+      },
+      "scene3": {
+        "dramatic": true,
+        "color": "muted"
+      }
+    },
+    "background": {
+      "scene1": {
+        "type": "hills",
+        "color": "green"
+      },
+      "scene2": {
+        "type": "city",
+        "color": "gray"
+      },
+      "scene3": {
+        "type": "forest",
+        "color": "earth"
+      }
+    }
+  },
+  "backstory": "Achal grew up in a family of writers and has always been passionate about storytelling. She loves to explore different areas and meet new people, which inspires her writing. As a pet parent, she also enjoys spending time with her furry friends and taking them on adventures.",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Achal sitting on a hillside, surrounded by green hills and trees, wearing an orange kurta and white salwar, with a pet dog by her side. She is leaning back and smiling, with a book in her hand."
+    },
+    {
+      "scene": 2,
+      "prompt": "Achal sitting on a couch in a cozy living room, wearing a blue t-shirt and black leggings, with a laptop on her lap. She is crossing her legs and looking focused, with a cup of coffee next to her."
+    },
+    {
+      "scene": 3,
+      "prompt": "Achal lying on a blanket in a forest, wearing a red sweater and gray jeans, with a book and a pen next to her. She is reading and writing, with a peaceful expression, surrounded by trees and a misty atmosphere."
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "AAchal_/images/scene_1.jpg",
+      "prompt": "\n{'name': 'Achal', 'age': 24, 'gender': 'female', 'region': 'Nepal', 'lifestyle': 'writer, pet parent', 'description': 'Achal is a young writer from Nepal who loves to explore different areas and is also a devoted pet parent.', 'face': {'shape': 'oval', 'features': {'eyes': {'color': 'dark brown', 'shape': 'almond'}, 'nose': 'slight', 'mouth': 'full'}, 'expression': 'smiling'}, 'outfit': {'scene1': {'top': 'orange kurta', 'bottom': 'white salwar', 'shoes': 'brown juttis'}, 'scene2': {'top': 'blue t-shirt', 'bottom': 'black leggings', 'shoes': 'white sneakers'}, 'scene3': {'top': 'red sweater', 'bottom': 'gray jeans', 'shoes': 'brown boots'}}, 'pose': {'scene1': {'standing': True, 'leaning': True}, 'scene2': {'sitting': True, 'crossing': True}, 'scene3': {'lying': True, 'reading': True}}, 'camera': {'scene1': {'angle': \"bird's eye\", 'distance': 'medium'}, 'scene2': {'angle': 'profile', 'distance': 'close'}, 'scene3': {'angle': 'overhead', 'distance': 'far'}}, 'lighting': {'scene1': {'natural': True, 'color': 'warm'}, 'scene2': {'artificial': True, 'color': 'cool'}, 'scene3': {'dramatic': True, 'color': 'muted'}}, 'background': {'scene1': {'type': 'hills', 'color': 'green'}, 'scene2': {'type': 'city', 'color': 'gray'}, 'scene3': {'type': 'forest', 'color': 'earth'}}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nAchal sitting on a hillside, surrounded by green hills and trees, wearing an orange kurta and white salwar, with a pet dog by her side. She is leaning back and smiling, with a book in her hand.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "AAchal_/images/scene_2.jpg",
+      "prompt": "\n{'name': 'Achal', 'age': 24, 'gender': 'female', 'region': 'Nepal', 'lifestyle': 'writer, pet parent', 'description': 'Achal is a young writer from Nepal who loves to explore different areas and is also a devoted pet parent.', 'face': {'shape': 'oval', 'features': {'eyes': {'color': 'dark brown', 'shape': 'almond'}, 'nose': 'slight', 'mouth': 'full'}, 'expression': 'smiling'}, 'outfit': {'scene1': {'top': 'orange kurta', 'bottom': 'white salwar', 'shoes': 'brown juttis'}, 'scene2': {'top': 'blue t-shirt', 'bottom': 'black leggings', 'shoes': 'white sneakers'}, 'scene3': {'top': 'red sweater', 'bottom': 'gray jeans', 'shoes': 'brown boots'}}, 'pose': {'scene1': {'standing': True, 'leaning': True}, 'scene2': {'sitting': True, 'crossing': True}, 'scene3': {'lying': True, 'reading': True}}, 'camera': {'scene1': {'angle': \"bird's eye\", 'distance': 'medium'}, 'scene2': {'angle': 'profile', 'distance': 'close'}, 'scene3': {'angle': 'overhead', 'distance': 'far'}}, 'lighting': {'scene1': {'natural': True, 'color': 'warm'}, 'scene2': {'artificial': True, 'color': 'cool'}, 'scene3': {'dramatic': True, 'color': 'muted'}}, 'background': {'scene1': {'type': 'hills', 'color': 'green'}, 'scene2': {'type': 'city', 'color': 'gray'}, 'scene3': {'type': 'forest', 'color': 'earth'}}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nAchal sitting on a couch in a cozy living room, wearing a blue t-shirt and black leggings, with a laptop on her lap. She is crossing her legs and looking focused, with a cup of coffee next to her.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "AAchal_/images/scene_3.jpg",
+      "prompt": "\n{'name': 'Achal', 'age': 24, 'gender': 'female', 'region': 'Nepal', 'lifestyle': 'writer, pet parent', 'description': 'Achal is a young writer from Nepal who loves to explore different areas and is also a devoted pet parent.', 'face': {'shape': 'oval', 'features': {'eyes': {'color': 'dark brown', 'shape': 'almond'}, 'nose': 'slight', 'mouth': 'full'}, 'expression': 'smiling'}, 'outfit': {'scene1': {'top': 'orange kurta', 'bottom': 'white salwar', 'shoes': 'brown juttis'}, 'scene2': {'top': 'blue t-shirt', 'bottom': 'black leggings', 'shoes': 'white sneakers'}, 'scene3': {'top': 'red sweater', 'bottom': 'gray jeans', 'shoes': 'brown boots'}}, 'pose': {'scene1': {'standing': True, 'leaning': True}, 'scene2': {'sitting': True, 'crossing': True}, 'scene3': {'lying': True, 'reading': True}}, 'camera': {'scene1': {'angle': \"bird's eye\", 'distance': 'medium'}, 'scene2': {'angle': 'profile', 'distance': 'close'}, 'scene3': {'angle': 'overhead', 'distance': 'far'}}, 'lighting': {'scene1': {'natural': True, 'color': 'warm'}, 'scene2': {'artificial': True, 'color': 'cool'}, 'scene3': {'dramatic': True, 'color': 'muted'}}, 'background': {'scene1': {'type': 'hills', 'color': 'green'}, 'scene2': {'type': 'city', 'color': 'gray'}, 'scene3': {'type': 'forest', 'color': 'earth'}}},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nAchal lying on a blanket in a forest, wearing a red sweater and gray jeans, with a book and a pen next to her. She is reading and writing, with a peaceful expression, surrounded by trees and a misty atmosphere.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

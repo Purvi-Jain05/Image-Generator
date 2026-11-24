@@ -1,0 +1,148 @@
+{
+  "name": "Zain",
+  "age": 24,
+  "region": "Delhi",
+  "gender": "Male",
+  "lifestyle": "pet parent and loves to explore different places",
+  "description": "Zain is a young, adventurous pet parent who loves to explore the vibrant city of Delhi with his furry companion. He is always up for a new challenge and is passionate about traveling and trying new things.",
+  "appearance": {
+    "face": {
+      "shape": "oval",
+      "features": "bright eyes, small nose, and a warm smile",
+      "skin tone": "fair"
+    },
+    "body": {
+      "height": "175cm",
+      "weight": "65kg",
+      "build": "lean",
+      "hair": {
+        "color": "dark brown",
+        "style": "messy, textured"
+      },
+      "clothing": {
+        "outfit": " casual, comfortable",
+        "color": "blue, white"
+      }
+    },
+    "accessories": [
+      "watch",
+      "silver chain with a pendant"
+    ]
+  },
+  "backstory": "Zain grew up in Delhi and has always been fascinated by the city's rich history and culture. As a pet parent, he loves to explore the city with his furry companion, trying new places and activities along the way.",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Zain walking in the streets of Old Delhi with his pet dog",
+      "image": {
+        "background": {
+          "image": "Old Delhi street scene",
+          "color": "#ccc"
+        },
+        "character": {
+          "position": "standing",
+          "pose": "relaxed",
+          "expression": "smiling",
+          "clothing": {
+            "outfit": " casual, comfortable",
+            "color": "blue, white"
+          },
+          "accessories": [
+            "watch",
+            "silver chain with a pendant"
+          ],
+          "pet": {
+            "type": "dog",
+            "breed": "Labrador",
+            "position": "by Zain's side",
+            "pose": "sitting"
+          }
+        },
+        "actions": [
+          "Zain is walking with his dog, looking around at the street vendors and historic buildings"
+        ]
+      }
+    },
+    {
+      "scene": 2,
+      "prompt": "Zain sitting in a caf\u00e9 in Hauz Khas, sipping a coffee and typing on his laptop",
+      "image": {
+        "background": {
+          "image": "Hauz Khas caf\u00e9 scene",
+          "color": "#f2f2f2"
+        },
+        "character": {
+          "position": "sitting",
+          "pose": "relaxed",
+          "expression": "focused",
+          "clothing": {
+            "outfit": "smart casual",
+            "color": "gray, white"
+          },
+          "accessories": [
+            "watch",
+            "silver chain with a pendant"
+          ],
+          "pet": {
+            "type": "dog",
+            "breed": "Labrador",
+            "position": "under the table",
+            "pose": "lying down"
+          }
+        },
+        "actions": [
+          "Zain is typing on his laptop, sipping a coffee and looking up occasionally at the street outside"
+        ]
+      }
+    },
+    {
+      "scene": 3,
+      "prompt": "Zain standing in front of the Qutub Minar, looking up at the monument with his pet dog",
+      "image": {
+        "background": {
+          "image": "Qutub Minar scene",
+          "color": "#fff"
+        },
+        "character": {
+          "position": "standing",
+          "pose": "admiring",
+          "expression": "awed",
+          "clothing": {
+            "outfit": "formal",
+            "color": "black, white"
+          },
+          "accessories": [
+            "watch",
+            "silver chain with a pendant"
+          ],
+          "pet": {
+            "type": "dog",
+            "breed": "Labrador",
+            "position": "by Zain's side",
+            "pose": "standing"
+          }
+        },
+        "actions": [
+          "Zain is looking up at the Qutub Minar, his eyes wide with wonder and his pet dog by his side"
+        ]
+      }
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "Zain/images/scene_1.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': 'bright eyes, small nose, and a warm smile', 'skin tone': 'fair'}, 'body': {'height': '175cm', 'weight': '65kg', 'build': 'lean', 'hair': {'color': 'dark brown', 'style': 'messy, textured'}, 'clothing': {'outfit': ' casual, comfortable', 'color': 'blue, white'}}, 'accessories': ['watch', 'silver chain with a pendant']},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nZain walking in the streets of Old Delhi with his pet dog,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "Zain/images/scene_2.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': 'bright eyes, small nose, and a warm smile', 'skin tone': 'fair'}, 'body': {'height': '175cm', 'weight': '65kg', 'build': 'lean', 'hair': {'color': 'dark brown', 'style': 'messy, textured'}, 'clothing': {'outfit': ' casual, comfortable', 'color': 'blue, white'}}, 'accessories': ['watch', 'silver chain with a pendant']},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nZain sitting in a caf\u00e9 in Hauz Khas, sipping a coffee and typing on his laptop,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "Zain/images/scene_3.jpg",
+      "prompt": "\n{'face': {'shape': 'oval', 'features': 'bright eyes, small nose, and a warm smile', 'skin tone': 'fair'}, 'body': {'height': '175cm', 'weight': '65kg', 'build': 'lean', 'hair': {'color': 'dark brown', 'style': 'messy, textured'}, 'clothing': {'outfit': ' casual, comfortable', 'color': 'blue, white'}}, 'accessories': ['watch', 'silver chain with a pendant']},\n\nsame face, same identity,\nfull face visible, consistent facial features, looking at camera,\n\nZain standing in front of the Qutub Minar, looking up at the monument with his pet dog,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}

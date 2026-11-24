@@ -1,0 +1,85 @@
+{
+  "appearance": {
+    "name": "shiya",
+    "age": 26,
+    "gender": "female",
+    "lifestyle": {
+      "interests": [
+        "bird watching",
+        "pottery",
+        "trekking"
+      ],
+      "outfit": {
+        "scene1": "hiking boots, trekking pants, green jacket",
+        "scene2": "pottery apron, clay covered hands, casual t-shirt",
+        "scene3": "binoculars, bird watching hat, earth-toned clothing"
+      },
+      "face": {
+        "expression": "smiling",
+        "features": {
+          "eyes": "brown",
+          "hair": "black, curly",
+          "skin tone": "medium"
+        }
+      },
+      "body": {
+        "pose": {
+          "scene1": "standing, balancing on one leg",
+          "scene2": "squatting, hands covered in clay",
+          "scene3": "sitting, binoculars around neck"
+        },
+        "clothing": {
+          "scene1": "hiking boots, trekking pants, green jacket",
+          "scene2": "pottery apron, clay covered hands, casual t-shirt",
+          "scene3": "binoculars, bird watching hat, earth-toned clothing"
+        }
+      }
+    },
+    "region": {
+      "environment": "jammu",
+      "background": {
+        "scene1": "misty forest, trees, birds chirping",
+        "scene2": "pottery studio, clay, kiln",
+        "scene3": "mountain trail, rocky terrain, birds flying"
+      }
+    }
+  },
+  "backstory": "Shiya is a 26-year-old female from the region of Jammu, with interests in bird watching, pottery, and trekking. She grew up surrounded by nature and developed a passion for the outdoors. She spends her free time exploring the forests and mountains of Jammu, and is always on the lookout for new species of birds to spot.",
+  "scenes": [
+    {
+      "scene": 1,
+      "prompt": "Shiya standing in a misty forest, wearing hiking boots, trekking pants, and a green jacket, with binoculars around her neck, looking out at a bird perched on a tree branch.",
+      "description": "Shiya is a nature lover who spends her days exploring the forests and mountains of Jammu, looking for new species of birds to spot.",
+      "action": "She is standing, balancing on one leg, and looking out at a bird perched on a tree branch."
+    },
+    {
+      "scene": 2,
+      "prompt": "Shiya squatting in a pottery studio, wearing a pottery apron and clay covered hands, with a casual t-shirt and a pot on the wheel in front of her.",
+      "description": "Shiya is a skilled potter who creates beautiful ceramic pieces that reflect her love of nature.",
+      "action": "She is squatting, hands covered in clay, and working on a pot on the wheel."
+    },
+    {
+      "scene": 3,
+      "prompt": "Shiya sitting on a mountain trail, wearing a bird watching hat and earth-toned clothing, with binoculars around her neck, looking out at a bird flying in the distance.",
+      "description": "Shiya is a bird watching enthusiast who spends her days exploring the mountains and forests of Jammu, looking for new species of birds to spot.",
+      "action": "She is sitting, binoculars around her neck, and looking out at a bird flying in the distance."
+    }
+  ],
+  "generated_images": [
+    {
+      "scene": 1,
+      "image_path": "shiya/images/scene_1.jpg",
+      "prompt": "\n{'name': 'shiya', 'age': 26, 'gender': 'female', 'lifestyle': {'interests': ['bird watching', 'pottery', 'trekking'], 'outfit': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}, 'face': {'expression': 'smiling', 'features': {'eyes': 'brown', 'hair': 'black, curly', 'skin tone': 'medium'}}, 'body': {'pose': {'scene1': 'standing, balancing on one leg', 'scene2': 'squatting, hands covered in clay', 'scene3': 'sitting, binoculars around neck'}, 'clothing': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}}}, 'region': {'environment': 'jammu', 'background': {'scene1': 'misty forest, trees, birds chirping', 'scene2': 'pottery studio, clay, kiln', 'scene3': 'mountain trail, rocky terrain, birds flying'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nShiya standing in a misty forest, wearing hiking boots, trekking pants, and a green jacket, with binoculars around her neck, looking out at a bird perched on a tree branch.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 2,
+      "image_path": "shiya/images/scene_2.jpg",
+      "prompt": "\n{'name': 'shiya', 'age': 26, 'gender': 'female', 'lifestyle': {'interests': ['bird watching', 'pottery', 'trekking'], 'outfit': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}, 'face': {'expression': 'smiling', 'features': {'eyes': 'brown', 'hair': 'black, curly', 'skin tone': 'medium'}}, 'body': {'pose': {'scene1': 'standing, balancing on one leg', 'scene2': 'squatting, hands covered in clay', 'scene3': 'sitting, binoculars around neck'}, 'clothing': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}}}, 'region': {'environment': 'jammu', 'background': {'scene1': 'misty forest, trees, birds chirping', 'scene2': 'pottery studio, clay, kiln', 'scene3': 'mountain trail, rocky terrain, birds flying'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nShiya squatting in a pottery studio, wearing a pottery apron and clay covered hands, with a casual t-shirt and a pot on the wheel in front of her.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    },
+    {
+      "scene": 3,
+      "image_path": "shiya/images/scene_3.jpg",
+      "prompt": "\n{'name': 'shiya', 'age': 26, 'gender': 'female', 'lifestyle': {'interests': ['bird watching', 'pottery', 'trekking'], 'outfit': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}, 'face': {'expression': 'smiling', 'features': {'eyes': 'brown', 'hair': 'black, curly', 'skin tone': 'medium'}}, 'body': {'pose': {'scene1': 'standing, balancing on one leg', 'scene2': 'squatting, hands covered in clay', 'scene3': 'sitting, binoculars around neck'}, 'clothing': {'scene1': 'hiking boots, trekking pants, green jacket', 'scene2': 'pottery apron, clay covered hands, casual t-shirt', 'scene3': 'binoculars, bird watching hat, earth-toned clothing'}}}, 'region': {'environment': 'jammu', 'background': {'scene1': 'misty forest, trees, birds chirping', 'scene2': 'pottery studio, clay, kiln', 'scene3': 'mountain trail, rocky terrain, birds flying'}}},\n\n- same face, same identity,\n- full face visible, consistent facial features, looking at camera,\n- Same facial structure, same eyes, same nose, same lips\n- Same skin tone, same hairstyle\n- do not change identity\n\nShiya sitting on a mountain trail, wearing a bird watching hat and earth-toned clothing, with binoculars around her neck, looking out at a bird flying in the distance.,\n\ncinematic lighting, ultra realistic, 4k\n"
+    }
+  ]
+}
